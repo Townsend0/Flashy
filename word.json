@@ -1,0 +1,3998 @@
+{
+  "1": {
+    "English": "the",
+    "Arabic": "ﻝﺍ"
+  },
+  "2": {
+    "English": "of",
+    "Arabic": "ﻝ"
+  },
+  "3": {
+    "English": "to",
+    "Arabic": "ﻝ"
+  },
+  "4": {
+    "English": "and",
+    "Arabic": "ﻭ"
+  },
+  "5": {
+    "English": "a",
+    "Arabic": "ﺃ"
+  },
+  "6": {
+    "English": "in",
+    "Arabic": "ﻲﻓ"
+  },
+  "7": {
+    "English": "is",
+    "Arabic": "ﻥﻮﻜﻳ"
+  },
+  "8": {
+    "English": "it",
+    "Arabic": "ﻲﻫ - ﻮﻫ"
+  },
+  "9": {
+    "English": "you",
+    "Arabic": "ﺖﻧﺃ"
+  },
+  "10": {
+    "English": "that",
+    "Arabic": "ﻲﺘﻟﺍ - ﻱﺬﻟﺍ"
+  },
+  "11": {
+    "English": "he",
+    "Arabic": "ﻮﻫ"
+  },
+  "12": {
+    "English": "was",
+    "Arabic": "ﻥﺎﻛ"
+  },
+  "13": {
+    "English": "for",
+    "Arabic": "ﻝ"
+  },
+  "14": {
+    "English": "on",
+    "Arabic": "ﻰﻠﻋ"
+  },
+  "15": {
+    "English": "are",
+    "Arabic": "ﻥﻮﻜﻧ"
+  },
+  "16": {
+    "English": "with",
+    "Arabic": "ﻊﻣ"
+  },
+  "17": {
+    "English": "as",
+    "Arabic": "ﻞﺜﻣ"
+  },
+  "18": {
+    "English": "I",
+    "Arabic": "ﺎﻧﺃ"
+  },
+  "19": {
+    "English": "his",
+    "Arabic": "ﻪﻟ"
+  },
+  "20": {
+    "English": "they",
+    "Arabic": "ﻢﻫ"
+  },
+  "21": {
+    "English": "be",
+    "Arabic": "ﻥﻮﻜﻳ"
+  },
+  "22": {
+    "English": "at",
+    "Arabic": "ﻲﻓ"
+  },
+  "23": {
+    "English": "one",
+    "Arabic": "ﺪﺣﺍﻭ"
+  },
+  "24": {
+    "English": "have",
+    "Arabic": "ﻚﻠﻤﻳ"
+  },
+  "25": {
+    "English": "this",
+    "Arabic": "ﺍﺬﻫ"
+  },
+  "26": {
+    "English": "from",
+    "Arabic": "ﻦﻣ"
+  },
+  "27": {
+    "English": "or",
+    "Arabic": "ﻭﺃ"
+  },
+  "28": {
+    "English": "had",
+    "Arabic": "ﻚﻠﻣ"
+  },
+  "29": {
+    "English": "by",
+    "Arabic": "ﺔﻄﺳﺍﻮﺑ"
+  },
+  "30": {
+    "English": "hot",
+    "Arabic": "ﺭﺎﺣ"
+  },
+  "31": {
+    "English": "word",
+    "Arabic": "ﺔﻤﻠﻛ"
+  },
+  "32": {
+    "English": "but",
+    "Arabic": "ﻦﻜﻟ"
+  },
+  "33": {
+    "English": "what",
+    "Arabic": "ﺍﺫﺎﻣ"
+  },
+  "34": {
+    "English": "some",
+    "Arabic": "ﺾﻌﺑ"
+  },
+  "35": {
+    "English": "we",
+    "Arabic": "ﻦﺤﻧ"
+  },
+  "36": {
+    "English": "can",
+    "Arabic": "ﻊﻴﻄﺘﺴﻳ"
+  },
+  "37": {
+    "English": "out",
+    "Arabic": "ﺝﺭﺎﺧ"
+  },
+  "38": {
+    "English": "other",
+    "Arabic": "ﺮﺧﺁ"
+  },
+  "39": {
+    "English": "were",
+    "Arabic": "ﻥﺎﻛ"
+  },
+  "40": {
+    "English": "all",
+    "Arabic": "ﻊﻴﻤﺠﻟﺍ"
+  },
+  "41": {
+    "English": "there",
+    "Arabic": "ﻙﺎﻨﻫ"
+  },
+  "42": {
+    "English": "when",
+    "Arabic": "ﻰﺘﻣ"
+  },
+  "43": {
+    "English": "up",
+    "Arabic": "ﻰﻠﻋﺃ"
+  },
+  "44": {
+    "English": "use",
+    "Arabic": "ﻡﺪﺨﺘﺴﻳ"
+  },
+  "45": {
+    "English": "your",
+    "Arabic": "ﻚﻟ"
+  },
+  "46": {
+    "English": "how",
+    "Arabic": "ﻒﻴﻛ"
+  },
+  "47": {
+    "English": "said",
+    "Arabic": "ﻝﺎﻗ"
+  },
+  "48": {
+    "English": "an",
+    "Arabic": "ﻭ"
+  },
+  "49": {
+    "English": "each",
+    "Arabic": "ﻞﻛ"
+  },
+  "50": {
+    "English": "she",
+    "Arabic": "ﻲﻫ"
+  },
+  "51": {
+    "English": "which",
+    "Arabic": "ﻱﺃ"
+  },
+  "52": {
+    "English": "do",
+    "Arabic": "ﻞﻌﻔﻳ"
+  },
+  "53": {
+    "English": "their",
+    "Arabic": "ﻢﻫ"
+  },
+  "54": {
+    "English": "time",
+    "Arabic": "ﺖﻗﻭ"
+  },
+  "55": {
+    "English": "if",
+    "Arabic": "ﻮﻟ"
+  },
+  "56": {
+    "English": "will",
+    "Arabic": "ﻑﻮﺳ"
+  },
+  "57": {
+    "English": "way",
+    "Arabic": "ﻖﻳﺮﻃ"
+  },
+  "58": {
+    "English": "about",
+    "Arabic": "ﻦﻋ"
+  },
+  "59": {
+    "English": "many",
+    "Arabic": "ﺮﻴﺜﻛ"
+  },
+  "60": {
+    "English": "then",
+    "Arabic": "ﻢﺛ"
+  },
+  "61": {
+    "English": "them",
+    "Arabic": "ﻢﻫ"
+  },
+  "62": {
+    "English": "write",
+    "Arabic": "ﺐﺘﻜﻳ"
+  },
+  "63": {
+    "English": "would",
+    "Arabic": "ﻥﺎﻛ"
+  },
+  "64": {
+    "English": "like",
+    "Arabic": "ﺐﺤﻳ"
+  },
+  "65": {
+    "English": "so",
+    "Arabic": "ﺍﺬﻟ"
+  },
+  "66": {
+    "English": "these",
+    "Arabic": "ﺀﻻﺆﻫ"
+  },
+  "67": {
+    "English": "her",
+    "Arabic": "ﺎﻫ"
+  },
+  "68": {
+    "English": "long",
+    "Arabic": "ﻞﻳﻮﻃ"
+  },
+  "69": {
+    "English": "make",
+    "Arabic": "ﻊﻨﺼﻳ"
+  },
+  "70": {
+    "English": "thing",
+    "Arabic": "ﺀﻲﺷ"
+  },
+  "71": {
+    "English": "see",
+    "Arabic": "ﻯﺮﻳ"
+  },
+  "72": {
+    "English": "him",
+    "Arabic": "ﻪﻟ"
+  },
+  "73": {
+    "English": "two",
+    "Arabic": "ﻦﻴﻨﺛﺍ"
+  },
+  "74": {
+    "English": "has",
+    "Arabic": "ﻪﻳﺪﻟ"
+  },
+  "75": {
+    "English": "look",
+    "Arabic": "ﺮﻈﻨﻳ"
+  },
+  "76": {
+    "English": "more",
+    "Arabic": "ﺮﺜﻛﺃ"
+  },
+  "77": {
+    "English": "day",
+    "Arabic": "ﻡﻮﻳ"
+  },
+  "78": {
+    "English": "could",
+    "Arabic": "ﻉﺎﻄﺘﺳﺍ"
+  },
+  "79": {
+    "English": "go",
+    "Arabic": "ﺐﻫﺬﻳ"
+  },
+  "80": {
+    "English": "come",
+    "Arabic": "ﻲﺗﺄﻳ"
+  },
+  "81": {
+    "English": "did",
+    "Arabic": "ﻞﻌﻓ"
+  },
+  "82": {
+    "English": "number",
+    "Arabic": "ﻢﻗﺭ"
+  },
+  "83": {
+    "English": "sound",
+    "Arabic": "ﺕﻮﺻ"
+  },
+  "84": {
+    "English": "no",
+    "Arabic": "ﻻ"
+  },
+  "85": {
+    "English": "most",
+    "Arabic": "ﻢﻈﻌﻣ"
+  },
+  "86": {
+    "English": "people",
+    "Arabic": "ﺱﺎﻨﻟﺍ"
+  },
+  "87": {
+    "English": "my",
+    "Arabic": "ﻲﻟ"
+  },
+  "88": {
+    "English": "over",
+    "Arabic": "ﺓﺩﺎﻳﺯ"
+  },
+  "89": {
+    "English": "know",
+    "Arabic": "ﻑﺮﻌﻳ"
+  },
+  "90": {
+    "English": "water",
+    "Arabic": "ﺀﺎﻣ"
+  },
+  "91": {
+    "English": "than",
+    "Arabic": "ﻦﻣ"
+  },
+  "92": {
+    "English": "call",
+    "Arabic": "ﻞﺼﺘﻳ"
+  },
+  "93": {
+    "English": "first",
+    "Arabic": "ﻻﻭﺃ"
+  },
+  "94": {
+    "English": "who",
+    "Arabic": "ﻦﻣ"
+  },
+  "95": {
+    "English": "may",
+    "Arabic": "ﻦﻜﻤﻳ"
+  },
+  "96": {
+    "English": "down",
+    "Arabic": "ﺖﺤﺗ"
+  },
+  "97": {
+    "English": "side",
+    "Arabic": "ﺐﻧﺎﺟ"
+  },
+  "98": {
+    "English": "been",
+    "Arabic": "ﻥﺎﻛ"
+  },
+  "99": {
+    "English": "now",
+    "Arabic": "ﻥﻵﺍ"
+  },
+  "100": {
+    "English": "find",
+    "Arabic": "ﺪﺠﻳ"
+  },
+  "101": {
+    "English": "any",
+    "Arabic": "ﻱﺃ"
+  },
+  "102": {
+    "English": "new",
+    "Arabic": "ﺪﻳﺪﺟ"
+  },
+  "103": {
+    "English": "work",
+    "Arabic": "ﻞﻤﻋ"
+  },
+  "104": {
+    "English": "part",
+    "Arabic": "ﺀﺰﺟ"
+  },
+  "105": {
+    "English": "take",
+    "Arabic": "ﺬﺧﺄﻳ"
+  },
+  "106": {
+    "English": "get",
+    "Arabic": "ﻞﺼﺤﻳ"
+  },
+  "107": {
+    "English": "place",
+    "Arabic": "ﻥﺎﻜﻣ"
+  },
+  "108": {
+    "English": "made",
+    "Arabic": "ﻊﻨﺻ"
+  },
+  "109": {
+    "English": "live",
+    "Arabic": "ﺶﻴﻌﻳ"
+  },
+  "110": {
+    "English": "where",
+    "Arabic": "ﻦﻳﺃ"
+  },
+  "111": {
+    "English": "after",
+    "Arabic": "ﺪﻌﺑ"
+  },
+  "112": {
+    "English": "back",
+    "Arabic": "ﻒﻠﺧ"
+  },
+  "113": {
+    "English": "little",
+    "Arabic": "ﻞﻴﻠﻗ"
+  },
+  "114": {
+    "English": "only",
+    "Arabic": "ﻂﻘﻓ"
+  },
+  "115": {
+    "English": "round",
+    "Arabic": "ﻱﺮﺋﺍﺩ"
+  },
+  "116": {
+    "English": "man",
+    "Arabic": "ﻞﺟﺭ"
+  },
+  "117": {
+    "English": "year",
+    "Arabic": "ﺔﻨﺳ"
+  },
+  "118": {
+    "English": "came",
+    "Arabic": "ﻰﺗﺃ"
+  },
+  "119": {
+    "English": "show",
+    "Arabic": "ﺽﺮﻌﻳ"
+  },
+  "120": {
+    "English": "every",
+    "Arabic": "ﻞﻛ"
+  },
+  "121": {
+    "English": "good",
+    "Arabic": "ﺪﻴﺟ"
+  },
+  "122": {
+    "English": "me",
+    "Arabic": "ﺎﻧﺃ"
+  },
+  "123": {
+    "English": "give",
+    "Arabic": "ﻲﻄﻌﻳ"
+  },
+  "124": {
+    "English": "our",
+    "Arabic": "ﺎﻨﻜﻠﻣ"
+  },
+  "125": {
+    "English": "under",
+    "Arabic": "ﺖﺤﺗ"
+  },
+  "126": {
+    "English": "name",
+    "Arabic": "ﻢﺳﺍ"
+  },
+  "127": {
+    "English": "very",
+    "Arabic": "ﺍﺪﺟ"
+  },
+  "128": {
+    "English": "through",
+    "Arabic": "ﻝﻼﺧ"
+  },
+  "129": {
+    "English": "just",
+    "Arabic": "ﻂﻘﻓ"
+  },
+  "130": {
+    "English": "form",
+    "Arabic": "ﺓﺭﺎﻤﺘﺳﺍ"
+  },
+  "131": {
+    "English": "sentence",
+    "Arabic": "ﺔﻠﻤﺟ"
+  },
+  "132": {
+    "English": "great",
+    "Arabic": "ﻢﻴﻈﻋ"
+  },
+  "133": {
+    "English": "think",
+    "Arabic": "ﺮﻜﻔﻳ"
+  },
+  "134": {
+    "English": "say",
+    "Arabic": "ﻝﻮﻘﻳ"
+  },
+  "135": {
+    "English": "help",
+    "Arabic": "ﺪﻋﺎﺴﻳ"
+  },
+  "136": {
+    "English": "low",
+    "Arabic": "ﻞﻴﻠﻗ"
+  },
+  "137": {
+    "English": "line",
+    "Arabic": "ﻂﺧ"
+  },
+  "138": {
+    "English": "differ",
+    "Arabic": "ﻒﻠﺘﺧﺍ"
+  },
+  "139": {
+    "English": "turn",
+    "Arabic": "ﺭﻭﺩ"
+  },
+  "140": {
+    "English": "cause",
+    "Arabic": "ﺐﺒﺳ"
+  },
+  "141": {
+    "English": "much",
+    "Arabic": "ﺍﺮﻴﺜﻛ"
+  },
+  "142": {
+    "English": "mean",
+    "Arabic": "ﺪﺼﻘﻳ"
+  },
+  "143": {
+    "English": "before",
+    "Arabic": "ﻞﺒﻗ"
+  },
+  "144": {
+    "English": "move",
+    "Arabic": "ﻙﺮﺤﺘﻳ"
+  },
+  "145": {
+    "English": "right",
+    "Arabic": "ﻦﻴﻤﻳ"
+  },
+  "146": {
+    "English": "boy",
+    "Arabic": "ﺪﻟﻭ"
+  },
+  "147": {
+    "English": "old",
+    "Arabic": "ﻢﻳﺪﻗ"
+  },
+  "148": {
+    "English": "too",
+    "Arabic": "ﺎﻀﻳﺃ"
+  },
+  "149": {
+    "English": "same",
+    "Arabic": "ﺲﻔﻧ"
+  },
+  "150": {
+    "English": "tell",
+    "Arabic": "ﺮﺒﺨﻳ"
+  },
+  "151": {
+    "English": "does",
+    "Arabic": "ﻞﻌﻔﻳ"
+  },
+  "152": {
+    "English": "set",
+    "Arabic": "ﻦﻴﻴﻌﺗ"
+  },
+  "153": {
+    "English": "three",
+    "Arabic": "ﺔﺛﻼﺛ"
+  },
+  "154": {
+    "English": "want",
+    "Arabic": "ﺪﻳﺮﻳ"
+  },
+  "155": {
+    "English": "air",
+    "Arabic": "ﺀﺍﻮﻫ"
+  },
+  "156": {
+    "English": "well",
+    "Arabic": "ﺎﻨﺴﺣ"
+  },
+  "157": {
+    "English": "also",
+    "Arabic": "ﺎﻀﻳﺃ"
+  },
+  "158": {
+    "English": "play",
+    "Arabic": "ﺐﻌﻠﻳ"
+  },
+  "159": {
+    "English": "small",
+    "Arabic": "ﺮﻴﻐﺻ"
+  },
+  "160": {
+    "English": "end",
+    "Arabic": "ﺔﻳﺎﻬﻧ"
+  },
+  "161": {
+    "English": "put",
+    "Arabic": "ﻊﻀﻳ"
+  },
+  "162": {
+    "English": "home",
+    "Arabic": "ﺖﻴﺑ"
+  },
+  "163": {
+    "English": "read",
+    "Arabic": "ﺃﺮﻘﻳ"
+  },
+  "164": {
+    "English": "hand",
+    "Arabic": "ﻢﻠﺴﻳ"
+  },
+  "165": {
+    "English": "port",
+    "Arabic": "ﺀﺎﻨﻴﻣ"
+  },
+  "166": {
+    "English": "large",
+    "Arabic": "ﺮﻴﺒﻛ"
+  },
+  "167": {
+    "English": "spell",
+    "Arabic": "ﻰﺠﻬﺘﻳ"
+  },
+  "168": {
+    "English": "add",
+    "Arabic": "ﻒﻴﻀﻳ"
+  },
+  "169": {
+    "English": "even",
+    "Arabic": "ﻰﺘﺣ"
+  },
+  "170": {
+    "English": "land",
+    "Arabic": "ﺽﺭﺃ"
+  },
+  "171": {
+    "English": "here",
+    "Arabic": "ﺎﻨﻫ"
+  },
+  "172": {
+    "English": "must",
+    "Arabic": "ﺐﺠﻳ"
+  },
+  "173": {
+    "English": "big",
+    "Arabic": "ﺮﻴﺒﻛ"
+  },
+  "174": {
+    "English": "high",
+    "Arabic": "ﻲﻟﺎﻋ"
+  },
+  "175": {
+    "English": "such",
+    "Arabic": "ﻩﺬﻫ"
+  },
+  "176": {
+    "English": "follow",
+    "Arabic": "ﻊﺒﺘﻳ"
+  },
+  "177": {
+    "English": "act",
+    "Arabic": "ﻞﺜﻤﻳ"
+  },
+  "178": {
+    "English": "why",
+    "Arabic": "ﺍﺫﺎﻤﻟ"
+  },
+  "179": {
+    "English": "ask",
+    "Arabic": "ﻝﺄﺴﺑ"
+  },
+  "180": {
+    "English": "men",
+    "Arabic": "ﻝﺎﺟﺭ"
+  },
+  "181": {
+    "English": "change",
+    "Arabic": "ﺮﻴﻐﺘﻳ"
+  },
+  "182": {
+    "English": "went",
+    "Arabic": "ﺐﻫﺫ"
+  },
+  "183": {
+    "English": "light",
+    "Arabic": "ﺀﻮﺿ"
+  },
+  "184": {
+    "English": "kind",
+    "Arabic": "ﻑﻮﻄﻋ"
+  },
+  "185": {
+    "English": "off",
+    "Arabic": "ﻦﻋ"
+  },
+  "186": {
+    "English": "need",
+    "Arabic": "ﺝﺎﺘﺤﻳ"
+  },
+  "187": {
+    "English": "house",
+    "Arabic": "ﻝﺰﻨﻣ"
+  },
+  "188": {
+    "English": "picture",
+    "Arabic": "ﺓﺭﻮﺻ"
+  },
+  "189": {
+    "English": "try",
+    "Arabic": "ﻝﻭﺎﺤﻳ"
+  },
+  "190": {
+    "English": "us",
+    "Arabic": "ﻦﺤﻧ"
+  },
+  "191": {
+    "English": "again",
+    "Arabic": "ﻯﺮﺧﺃ ﺓﺮﻣ"
+  },
+  "192": {
+    "English": "animal",
+    "Arabic": "ﻥﺍﻮﻴﺣ"
+  },
+  "193": {
+    "English": "point",
+    "Arabic": "ﺔﻄﻘﻧ"
+  },
+  "194": {
+    "English": "mother",
+    "Arabic": "ﻡﻷﺍ"
+  },
+  "195": {
+    "English": "world",
+    "Arabic": "ﻢﻟﺎﻋ"
+  },
+  "196": {
+    "English": "near",
+    "Arabic": "ﺐﻳﺮﻗ"
+  },
+  "197": {
+    "English": "build",
+    "Arabic": "ﻲﻨﺒﻳ"
+  },
+  "198": {
+    "English": "self",
+    "Arabic": "ﺕﺍﺬﻟﺍ"
+  },
+  "199": {
+    "English": "earth",
+    "Arabic": "ﺽﺭﺃ"
+  },
+  "200": {
+    "English": "father",
+    "Arabic": "ﺏﺃ"
+  },
+  "201": {
+    "English": "head",
+    "Arabic": "ﺱﺃﺭ"
+  },
+  "202": {
+    "English": "stand",
+    "Arabic": "ﻒﻘﻳ"
+  },
+  "203": {
+    "English": "own",
+    "Arabic": "ﻚﻠﻣ"
+  },
+  "204": {
+    "English": "page",
+    "Arabic": "ﺔﺤﻔﺻ"
+  },
+  "205": {
+    "English": "should",
+    "Arabic": "ﺐﺠﻳ"
+  },
+  "206": {
+    "English": "country",
+    "Arabic": "ﺔﻟﻭﺩ"
+  },
+  "207": {
+    "English": "found",
+    "Arabic": "ﺪﺟﻭ"
+  },
+  "208": {
+    "English": "answer",
+    "Arabic": "ﺔﺑﺎﺟﺇ"
+  },
+  "209": {
+    "English": "school",
+    "Arabic": "ﺔﺳﺭﺪﻣ"
+  },
+  "210": {
+    "English": "grow",
+    "Arabic": "ﻮﻤﻨﻳ"
+  },
+  "211": {
+    "English": "study",
+    "Arabic": "ﺮﻛﺍﺬﻳ"
+  },
+  "212": {
+    "English": "still",
+    "Arabic": "ﻝﺍﺯ ﺎﻣ"
+  },
+  "213": {
+    "English": "learn",
+    "Arabic": "ﻢﻠﻌﺘﻳ"
+  },
+  "214": {
+    "English": "plant",
+    "Arabic": "ﺕﺎﺒﻧ"
+  },
+  "215": {
+    "English": "cover",
+    "Arabic": "ﺀﺎﻄﻏ"
+  },
+  "216": {
+    "English": "food",
+    "Arabic": "ﻡﺎﻌﻃ"
+  },
+  "217": {
+    "English": "sun",
+    "Arabic": "ﺲﻤﺷ"
+  },
+  "218": {
+    "English": "four",
+    "Arabic": "ﺔﻌﺑﺭﺃ"
+  },
+  "219": {
+    "English": "between",
+    "Arabic": "ﻦﻴﺑ"
+  },
+  "220": {
+    "English": "state",
+    "Arabic": "ﺔﻳﻻﻭ"
+  },
+  "221": {
+    "English": "keep",
+    "Arabic": "ﻆﻔﺤﻳ"
+  },
+  "222": {
+    "English": "eye",
+    "Arabic": "ﻦﻴﻋ"
+  },
+  "223": {
+    "English": "never",
+    "Arabic": "ﺍﺪﺑﺃ"
+  },
+  "224": {
+    "English": "last",
+    "Arabic": "ﺮﺧﺁ"
+  },
+  "225": {
+    "English": "let",
+    "Arabic": "ﻙﺮﺘﻳ"
+  },
+  "226": {
+    "English": "thought",
+    "Arabic": "ﺪﻘﺘﻌﻣ"
+  },
+  "227": {
+    "English": "city",
+    "Arabic": "ﺔﻨﻳﺪﻣ"
+  },
+  "228": {
+    "English": "tree",
+    "Arabic": "ﺓﺮﺠﺷ"
+  },
+  "229": {
+    "English": "cross",
+    "Arabic": "ﺮﺒﻌﻳ"
+  },
+  "230": {
+    "English": "farm",
+    "Arabic": "ﺔﻋﺭﺰﻣ"
+  },
+  "231": {
+    "English": "hard",
+    "Arabic": "ﺐﻌﺻ"
+  },
+  "232": {
+    "English": "start",
+    "Arabic": "ﺃﺪﺒﻳ"
+  },
+  "233": {
+    "English": "might",
+    "Arabic": "ﺪﻗ"
+  },
+  "234": {
+    "English": "story",
+    "Arabic": "ﺔﺼﻗ"
+  },
+  "235": {
+    "English": "saw",
+    "Arabic": "ﻯﺃﺭ"
+  },
+  "236": {
+    "English": "far",
+    "Arabic": "ﺪﻴﻌﺑ"
+  },
+  "237": {
+    "English": "sea",
+    "Arabic": "ﺮﺤﺑ"
+  },
+  "238": {
+    "English": "draw",
+    "Arabic": "ﻢﺳﺮﻳ"
+  },
+  "239": {
+    "English": "left",
+    "Arabic": "ﺭﺩﺎﻏ"
+  },
+  "240": {
+    "English": "late",
+    "Arabic": "ﺮﺧﺄﺘﻣ"
+  },
+  "241": {
+    "English": "run",
+    "Arabic": "ﻱﺮﺠﻳ"
+  },
+  "242": {
+    "English": "don't",
+    "Arabic": "ﻻ"
+  },
+  "243": {
+    "English": "while",
+    "Arabic": "ﺎﻤﻨﻴﺑ"
+  },
+  "244": {
+    "English": "press",
+    "Arabic": "ﻂﻌﻀﻳ"
+  },
+  "245": {
+    "English": "close",
+    "Arabic": "ﻖﻠﻐﻳ"
+  },
+  "246": {
+    "English": "night",
+    "Arabic": "ﺔﻠﻴﻟ"
+  },
+  "247": {
+    "English": "real",
+    "Arabic": "ﻲﻘﻴﻘﺣ"
+  },
+  "248": {
+    "English": "life",
+    "Arabic": "ﺓﺎﻴﺣ"
+  },
+  "249": {
+    "English": "few",
+    "Arabic": "ﻞﻴﻠﻗ ﺩﺪﻋ"
+  },
+  "250": {
+    "English": "north",
+    "Arabic": "ﻝﺎﻤﺷ"
+  },
+  "251": {
+    "English": "open",
+    "Arabic": "ﺢﺘﻔﻳ"
+  },
+  "252": {
+    "English": "seem",
+    "Arabic": "ﻭﺪﺒﻳ"
+  },
+  "253": {
+    "English": "together",
+    "Arabic": "ﺎﻌﻣ"
+  },
+  "254": {
+    "English": "next",
+    "Arabic": "ﻲﻟﺎﺘﻟﺍ"
+  },
+  "255": {
+    "English": "white",
+    "Arabic": "ﺾﻴﺑﺃ"
+  },
+  "256": {
+    "English": "children",
+    "Arabic": "ﻝﺎﻔﻃﺃ"
+  },
+  "257": {
+    "English": "begin",
+    "Arabic": "ﺃﺪﺒﻳ"
+  },
+  "258": {
+    "English": "got",
+    "Arabic": "ﻚﻠﻤﻳ"
+  },
+  "259": {
+    "English": "walk",
+    "Arabic": "ﻲﺸﻤﻳ"
+  },
+  "260": {
+    "English": "example",
+    "Arabic": "ﻝﺎﺜﻣ"
+  },
+  "261": {
+    "English": "ease",
+    "Arabic": "ﻞﻬﺴﻳ"
+  },
+  "262": {
+    "English": "paper",
+    "Arabic": "ﻕﺭﻭ"
+  },
+  "263": {
+    "English": "group",
+    "Arabic": "ﺔﻋﻮﻤﺠﻣ"
+  },
+  "264": {
+    "English": "always",
+    "Arabic": "ﺎﻤﺋﺍﺩ"
+  },
+  "265": {
+    "English": "music",
+    "Arabic": "ﻰﻘﻴﺳﻮﻣ"
+  },
+  "266": {
+    "English": "those",
+    "Arabic": "ﻚﺌﻟﻭﺃ"
+  },
+  "267": {
+    "English": "both",
+    "Arabic": "ﺎﻤﻫﻼﻛ"
+  },
+  "268": {
+    "English": "mark",
+    "Arabic": "ﺔﻣﻼﻋ"
+  },
+  "269": {
+    "English": "often",
+    "Arabic": "ﺎﺒﻟﺎﻏ"
+  },
+  "270": {
+    "English": "letter",
+    "Arabic": "ﺏﺎﻄﺧ"
+  },
+  "271": {
+    "English": "until",
+    "Arabic": "ﻰﺘﺣ"
+  },
+  "272": {
+    "English": "mile",
+    "Arabic": "ﻞﻴﻣ"
+  },
+  "273": {
+    "English": "river",
+    "Arabic": "ﺮﻬﻧ"
+  },
+  "274": {
+    "English": "car",
+    "Arabic": "ﺓﺭﺎﻴﺳ"
+  },
+  "275": {
+    "English": "feet",
+    "Arabic": "ﻡﺪﻗ"
+  },
+  "276": {
+    "English": "care",
+    "Arabic": "ﺔﻳﺎﻋﺭ"
+  },
+  "277": {
+    "English": "second",
+    "Arabic": "ﺔﻴﻧﺎﺛ"
+  },
+  "278": {
+    "English": "book",
+    "Arabic": "ﺏﺎﺘﻛ"
+  },
+  "279": {
+    "English": "carry",
+    "Arabic": "ﻞﻤﺤﻳ"
+  },
+  "280": {
+    "English": "took",
+    "Arabic": "ﺬﺧﺃ"
+  },
+  "281": {
+    "English": "science",
+    "Arabic": "ﻡﻮﻠﻋ"
+  },
+  "282": {
+    "English": "eat",
+    "Arabic": "ﻞﻛﺄﻳ"
+  },
+  "283": {
+    "English": "room",
+    "Arabic": "ﺔﻓﺮﻏ"
+  },
+  "284": {
+    "English": "friend",
+    "Arabic": "ﻖﻳﺪﺻ"
+  },
+  "285": {
+    "English": "began",
+    "Arabic": "ﺃﺪﺑ"
+  },
+  "286": {
+    "English": "idea",
+    "Arabic": "ﺓﺮﻜﻓ"
+  },
+  "287": {
+    "English": "fish",
+    "Arabic": "ﺔﻜﻤﺳ"
+  },
+  "288": {
+    "English": "mountain",
+    "Arabic": "ﻞﺒﺟ"
+  },
+  "289": {
+    "English": "stop",
+    "Arabic": "ﻒﻗ"
+  },
+  "290": {
+    "English": "once",
+    "Arabic": "ﺓﺪﺣﺍﻭ ﺓﺮﻣ"
+  },
+  "291": {
+    "English": "base",
+    "Arabic": "ﺓﺪﻋﺎﻗ"
+  },
+  "292": {
+    "English": "hear",
+    "Arabic": "ﻊﻤﺴﻳ"
+  },
+  "293": {
+    "English": "horse",
+    "Arabic": "ﻥﺎﺼﺣ"
+  },
+  "294": {
+    "English": "cut",
+    "Arabic": "ﻊﻄﻘﻳ"
+  },
+  "295": {
+    "English": "sure",
+    "Arabic": "ﺪﻴﻛﺄﺘﻟﺎﺑ"
+  },
+  "296": {
+    "English": "watch",
+    "Arabic": "ﺪﻫﺎﺸﻳ"
+  },
+  "297": {
+    "English": "color",
+    "Arabic": "ﻥﻮﻟ"
+  },
+  "298": {
+    "English": "face",
+    "Arabic": "ﻪﺟﻭ"
+  },
+  "299": {
+    "English": "wood",
+    "Arabic": "ﺐﺸﺧ"
+  },
+  "300": {
+    "English": "main",
+    "Arabic": "ﻲﺴﻴﺋﺭ"
+  },
+  "301": {
+    "English": "enough",
+    "Arabic": "ﻑﺎﻛ"
+  },
+  "302": {
+    "English": "plain",
+    "Arabic": "ﻞﻬﺳ"
+  },
+  "303": {
+    "English": "girl",
+    "Arabic": "ﺖﻨﺑ"
+  },
+  "304": {
+    "English": "usual",
+    "Arabic": "ﺩﺎﺘﻌﻣ"
+  },
+  "305": {
+    "English": "young",
+    "Arabic": "ﺏﺎﺷ"
+  },
+  "306": {
+    "English": "ready",
+    "Arabic": "ﺪﻌﺘﺴﻣ"
+  },
+  "307": {
+    "English": "above",
+    "Arabic": "ﻕﻮﻓ"
+  },
+  "308": {
+    "English": "ever",
+    "Arabic": "ﺍﺪﺑﺃ"
+  },
+  "309": {
+    "English": "red",
+    "Arabic": "ﺮﻤﺣﺃ"
+  },
+  "310": {
+    "English": "list",
+    "Arabic": "ﺔﻤﺋﺎﻗ"
+  },
+  "311": {
+    "English": "though",
+    "Arabic": "ﻚﻟﺫ ﻢﻏﺭ"
+  },
+  "312": {
+    "English": "feel",
+    "Arabic": "ﺮﻌﺸﻳ"
+  },
+  "313": {
+    "English": "talk",
+    "Arabic": "ﺙﺪﺤﺘﻳ"
+  },
+  "314": {
+    "English": "bird",
+    "Arabic": "ﺮﺋﺎﻃ"
+  },
+  "315": {
+    "English": "soon",
+    "Arabic": "ﺎﺒﻳﺮﻗ"
+  },
+  "316": {
+    "English": "body",
+    "Arabic": "ﻢﺴﺟ"
+  },
+  "317": {
+    "English": "dog",
+    "Arabic": "ﺐﻠﻛ"
+  },
+  "318": {
+    "English": "family",
+    "Arabic": "ﺔﻠﺋﺎﻋ"
+  },
+  "319": {
+    "English": "direct",
+    "Arabic": "ﺮﺷﺎﺒﻣ"
+  },
+  "320": {
+    "English": "pose",
+    "Arabic": "ﺭﺎﺛﺃ"
+  },
+  "321": {
+    "English": "leave",
+    "Arabic": "ﻙﺮﺘﻳ"
+  },
+  "322": {
+    "English": "song",
+    "Arabic": "ﺔﻴﻨﻏﺃ"
+  },
+  "323": {
+    "English": "measure",
+    "Arabic": "ﺲﻴﻘﻳ"
+  },
+  "324": {
+    "English": "door",
+    "Arabic": "ﺏﺎﺑ"
+  },
+  "325": {
+    "English": "product",
+    "Arabic": "ﺞﺘﻨﻣ"
+  },
+  "326": {
+    "English": "black",
+    "Arabic": "ﺩﻮﺳﺃ"
+  },
+  "327": {
+    "English": "short",
+    "Arabic": "ﺮﻴﺼﻗ"
+  },
+  "328": {
+    "English": "numeral",
+    "Arabic": "ﺩﺪﻋ"
+  },
+  "329": {
+    "English": "class",
+    "Arabic": "ﻞﺼﻓ"
+  },
+  "330": {
+    "English": "wind",
+    "Arabic": "ﺡﺎﻳﺭ"
+  },
+  "331": {
+    "English": "question",
+    "Arabic": "ﻝﺍﺆﺳ"
+  },
+  "332": {
+    "English": "happen",
+    "Arabic": "ﺙﺪﺤﻳ"
+  },
+  "333": {
+    "English": "complete",
+    "Arabic": "ﻞﻤﺘﻜﻣ"
+  },
+  "334": {
+    "English": "ship",
+    "Arabic": "ﺔﻨﻴﻔﺳ"
+  },
+  "335": {
+    "English": "area",
+    "Arabic": "ﺔﻘﻄﻨﻣ"
+  },
+  "336": {
+    "English": "half",
+    "Arabic": "ﻒﺼﻧ"
+  },
+  "337": {
+    "English": "rock",
+    "Arabic": "ﺮﺨﺻ"
+  },
+  "338": {
+    "English": "order",
+    "Arabic": "ﺐﻠﻃ"
+  },
+  "339": {
+    "English": "fire",
+    "Arabic": "ﺭﺎﻧ"
+  },
+  "340": {
+    "English": "south",
+    "Arabic": "ﺏﻮﻨﺟ"
+  },
+  "341": {
+    "English": "problem",
+    "Arabic": "ﺔﻠﻜﺸﻣ"
+  },
+  "342": {
+    "English": "piece",
+    "Arabic": "ﺔﻌﻄﻗ"
+  },
+  "343": {
+    "English": "told",
+    "Arabic": "ﺮﺒﺧﺃ"
+  },
+  "344": {
+    "English": "knew",
+    "Arabic": "ﻑﺮﻋ"
+  },
+  "345": {
+    "English": "pass",
+    "Arabic": "ﺮﻤﻳ"
+  },
+  "346": {
+    "English": "since",
+    "Arabic": "ﺬﻨﻣ"
+  },
+  "347": {
+    "English": "top",
+    "Arabic": "ﺔﻤﻗ"
+  },
+  "348": {
+    "English": "whole",
+    "Arabic": "ﻊﻴﻤﺟ"
+  },
+  "349": {
+    "English": "king",
+    "Arabic": "ﻚﻠﻣ"
+  },
+  "350": {
+    "English": "space",
+    "Arabic": "ﺀﺎﻀﻓ"
+  },
+  "351": {
+    "English": "heard",
+    "Arabic": "ﻊﻤﺳ"
+  },
+  "352": {
+    "English": "best",
+    "Arabic": "ﻞﻀﻓﺃ"
+  },
+  "353": {
+    "English": "hour",
+    "Arabic": "ﺔﻋﺎﺳ"
+  },
+  "354": {
+    "English": "better",
+    "Arabic": "ﻦﺴﺣﺃ"
+  },
+  "355": {
+    "English": "true .",
+    "Arabic": ". ﻲﻘﻴﻘﺣ"
+  },
+  "356": {
+    "English": "during",
+    "Arabic": "ﻝﻼﺧ"
+  },
+  "357": {
+    "English": "hundred",
+    "Arabic": "ﺔﺋﺎﻣ"
+  },
+  "358": {
+    "English": "five",
+    "Arabic": "ﺔﺴﻤﺧ"
+  },
+  "359": {
+    "English": "remember",
+    "Arabic": "ﺮﻛﺬﺘﻳ"
+  },
+  "360": {
+    "English": "step",
+    "Arabic": "ﺓﻮﻄﺧ"
+  },
+  "361": {
+    "English": "early",
+    "Arabic": "ﺮﻜﺒﻣ"
+  },
+  "362": {
+    "English": "hold",
+    "Arabic": "ﻚﺴﻤﻳ"
+  },
+  "363": {
+    "English": "west",
+    "Arabic": "ﺏﺮﻐﻟﺍ"
+  },
+  "364": {
+    "English": "ground",
+    "Arabic": "ﻲﺿﺭﺃ"
+  },
+  "365": {
+    "English": "interest",
+    "Arabic": "ﻡﺎﻤﺘﻫﺍ"
+  },
+  "366": {
+    "English": "reach",
+    "Arabic": "ﻞﺼﻳ"
+  },
+  "367": {
+    "English": "fast",
+    "Arabic": "ﻊﻳﺮﺳ"
+  },
+  "368": {
+    "English": "verb",
+    "Arabic": "ﻞﻌﻔﻟﺍ"
+  },
+  "369": {
+    "English": "sing",
+    "Arabic": "ﻲﻨﻐﻳ"
+  },
+  "370": {
+    "English": "listen",
+    "Arabic": "ﻊﻤﺘﺴﻳ"
+  },
+  "371": {
+    "English": "six",
+    "Arabic": "ﺔﺘﺳ"
+  },
+  "372": {
+    "English": "table",
+    "Arabic": "ﺔﻟﻭﺎﻃ"
+  },
+  "373": {
+    "English": "travel",
+    "Arabic": "ﺮﻓﺎﺴﻳ"
+  },
+  "374": {
+    "English": "less",
+    "Arabic": "ﻞﻗﺃ"
+  },
+  "375": {
+    "English": "morning",
+    "Arabic": "ﺡﺎﺒﺻ"
+  },
+  "376": {
+    "English": "ten",
+    "Arabic": "ﺓﺮﺸﻋ"
+  },
+  "377": {
+    "English": "simple",
+    "Arabic": "ﻂﻴﺴﺑ"
+  },
+  "378": {
+    "English": "several",
+    "Arabic": "ﺪﻳﺪﻋ"
+  },
+  "379": {
+    "English": "vowel",
+    "Arabic": "ﻙﺮﺤﺘﻣ ﻑﺮﺣ"
+  },
+  "380": {
+    "English": "toward",
+    "Arabic": "ﻩﺎﺠﺗﺎﺑ"
+  },
+  "381": {
+    "English": "war",
+    "Arabic": "ﺏﺮﺣ"
+  },
+  "382": {
+    "English": "lay",
+    "Arabic": "ﻊﻀﻳ"
+  },
+  "383": {
+    "English": "against",
+    "Arabic": "ﺪﺿ"
+  },
+  "384": {
+    "English": "pattern",
+    "Arabic": "ﻂﻤﻧ"
+  },
+  "385": {
+    "English": "slow",
+    "Arabic": "ﺀﻲﻄﺑ"
+  },
+  "386": {
+    "English": "center",
+    "Arabic": "ﺰﻛﺮﻣ"
+  },
+  "387": {
+    "English": "love",
+    "Arabic": "ﺐﺣ"
+  },
+  "388": {
+    "English": "person",
+    "Arabic": "ﺺﺨﺷ"
+  },
+  "389": {
+    "English": "money",
+    "Arabic": "ﻝﺎﻣ"
+  },
+  "390": {
+    "English": "serve",
+    "Arabic": "ﻡﺪﺨﻳ"
+  },
+  "391": {
+    "English": "appear",
+    "Arabic": "ﺮﻬﻈﻳ"
+  },
+  "392": {
+    "English": "road",
+    "Arabic": "ﻖﻳﺮﻃ"
+  },
+  "393": {
+    "English": "map",
+    "Arabic": "ﺔﻄﻳﺮﺧ"
+  },
+  "394": {
+    "English": "rain",
+    "Arabic": "ﺮﻄﻣ"
+  },
+  "395": {
+    "English": "rule",
+    "Arabic": "ﺓﺪﻋﺎﻗ"
+  },
+  "396": {
+    "English": "govern",
+    "Arabic": "ﻢﻜﺣ"
+  },
+  "397": {
+    "English": "pull",
+    "Arabic": "ﺏﺬﺤﻳ"
+  },
+  "398": {
+    "English": "cold",
+    "Arabic": "ﺩﺭﺎﺑ"
+  },
+  "399": {
+    "English": "notice",
+    "Arabic": "ﻆﺣﻼﻳ"
+  },
+  "400": {
+    "English": "voice",
+    "Arabic": "ﺕﻮﺻ"
+  },
+  "401": {
+    "English": "unit",
+    "Arabic": "ﺓﺪﺣﻭ"
+  },
+  "402": {
+    "English": "power",
+    "Arabic": "ﺓﻮﻗ"
+  },
+  "403": {
+    "English": "town",
+    "Arabic": "ﺓﺪﻠﺑ"
+  },
+  "404": {
+    "English": "fine",
+    "Arabic": "ﺮﻴﺨﺑ"
+  },
+  "405": {
+    "English": "certain",
+    "Arabic": "ﺪﻴﻛﺄﺗ"
+  },
+  "406": {
+    "English": "fly",
+    "Arabic": "ﺮﻴﻄﻳ"
+  },
+  "407": {
+    "English": "fall",
+    "Arabic": "ﻂﻘﺴﻳ"
+  },
+  "408": {
+    "English": "lead",
+    "Arabic": "ﺩﻮﻘﻳ"
+  },
+  "409": {
+    "English": "cry",
+    "Arabic": "ﻲﻜﺒﻳ"
+  },
+  "410": {
+    "English": "dark",
+    "Arabic": "ﻢﻠﻈﻣ"
+  },
+  "411": {
+    "English": "machine",
+    "Arabic": "ﺔﻟﺁ"
+  },
+  "412": {
+    "English": "note",
+    "Arabic": "ﺔﻇﻮﺤﻠﻣ"
+  },
+  "413": {
+    "English": "wait",
+    "Arabic": "ﺮﻈﺘﻧﺍ"
+  },
+  "414": {
+    "English": "plan",
+    "Arabic": "ﻂﻄﺨﻳ"
+  },
+  "415": {
+    "English": "figure",
+    "Arabic": "ﻞﻜﺷ"
+  },
+  "416": {
+    "English": "star",
+    "Arabic": "ﺔﻤﺠﻧ"
+  },
+  "417": {
+    "English": "box",
+    "Arabic": "ﻕﻭﺪﻨﺻ"
+  },
+  "418": {
+    "English": "noun",
+    "Arabic": "ﻢﺳﺍ"
+  },
+  "419": {
+    "English": "field",
+    "Arabic": "ﻝﺎﺠﻣ"
+  },
+  "420": {
+    "English": "rest",
+    "Arabic": "ﺔﺣﺍﺮﺘﺳﺍ"
+  },
+  "421": {
+    "English": "correct",
+    "Arabic": "ﺢﻴﺤﺻ"
+  },
+  "422": {
+    "English": "able",
+    "Arabic": "ﺭﺩﺎﻗ"
+  },
+  "423": {
+    "English": "pound",
+    "Arabic": "ﻪﻴﻨﺟ"
+  },
+  "424": {
+    "English": "done",
+    "Arabic": "ﻲﻬﺘﻨﻣ"
+  },
+  "425": {
+    "English": "beauty",
+    "Arabic": "ﻝﺎﻤﺟ"
+  },
+  "426": {
+    "English": "drive",
+    "Arabic": "ﺩﻮﻘﻳ"
+  },
+  "427": {
+    "English": "stood",
+    "Arabic": "ﻒﻗﻭ"
+  },
+  "428": {
+    "English": "contain",
+    "Arabic": "ﻱﻮﺘﺤﻳ"
+  },
+  "429": {
+    "English": "front",
+    "Arabic": "ﻡﺎﻣﺃ"
+  },
+  "430": {
+    "English": "teach",
+    "Arabic": "ﻢﻠﻌﻳ"
+  },
+  "431": {
+    "English": "week",
+    "Arabic": "ﻉﻮﺒﺳﺃ"
+  },
+  "432": {
+    "English": "final",
+    "Arabic": "ﺮﻴﺧﺃ"
+  },
+  "433": {
+    "English": "gave",
+    "Arabic": "ﻰﻄﻋﺃ"
+  },
+  "434": {
+    "English": "green",
+    "Arabic": "ﺮﻀﺧﺃ"
+  },
+  "435": {
+    "English": "oh",
+    "Arabic": "ﻩﻭﺃ"
+  },
+  "436": {
+    "English": "quick",
+    "Arabic": "ﻊﻳﺮﺳ"
+  },
+  "437": {
+    "English": "develop",
+    "Arabic": "ﺭﻮﻄﻳ"
+  },
+  "438": {
+    "English": "ocean",
+    "Arabic": "ﻂﻴﺤﻣ"
+  },
+  "439": {
+    "English": "warm",
+    "Arabic": "ﺀﻲﻓﺍﺩ"
+  },
+  "440": {
+    "English": "free",
+    "Arabic": "ﺮﺣ"
+  },
+  "441": {
+    "English": "minute",
+    "Arabic": "ﺔﻘﻴﻗﺩ"
+  },
+  "442": {
+    "English": "strong",
+    "Arabic": "ﻱﻮﻗ"
+  },
+  "443": {
+    "English": "special",
+    "Arabic": "ﺹﺎﺧ"
+  },
+  "444": {
+    "English": "mind",
+    "Arabic": "ﻞﻘﻋ"
+  },
+  "445": {
+    "English": "behind",
+    "Arabic": "ﻒﻠﺧ"
+  },
+  "446": {
+    "English": "clear",
+    "Arabic": "ﺢﺿﺍﻭ"
+  },
+  "447": {
+    "English": "tail",
+    "Arabic": "ﻞﻳﺫ"
+  },
+  "448": {
+    "English": "produce",
+    "Arabic": "ﺞﺘﻨﻳ"
+  },
+  "449": {
+    "English": "fact",
+    "Arabic": "ﺔﻘﻴﻘﺣ"
+  },
+  "450": {
+    "English": "street",
+    "Arabic": "ﻉﺭﺎﺷ"
+  },
+  "451": {
+    "English": "inch",
+    "Arabic": "ﺔﺻﻮﺑ"
+  },
+  "452": {
+    "English": "multiply",
+    "Arabic": "ﻒﻋﺎﻀﺘﺗ"
+  },
+  "453": {
+    "English": "nothing",
+    "Arabic": "ﺊﺷ ﻻ"
+  },
+  "454": {
+    "English": "course",
+    "Arabic": "ﺓﺭﻭﺩ"
+  },
+  "455": {
+    "English": "stay",
+    "Arabic": "ﻲﻀﻘﻳ"
+  },
+  "456": {
+    "English": "wheel",
+    "Arabic": "ﺔﻠﺠﻋ"
+  },
+  "457": {
+    "English": "full",
+    "Arabic": "ﺀﻰﻠﺘﻤﻣ"
+  },
+  "458": {
+    "English": "force",
+    "Arabic": "ﺓﻮﻗ"
+  },
+  "459": {
+    "English": "blue",
+    "Arabic": "ﻕﺭﺯﺃ"
+  },
+  "460": {
+    "English": "object",
+    "Arabic": "ﻑﺪﻫ"
+  },
+  "461": {
+    "English": "decide",
+    "Arabic": "ﺭﺮﻘﻳ"
+  },
+  "462": {
+    "English": "surface",
+    "Arabic": "ﺢﻄﺳ"
+  },
+  "463": {
+    "English": "deep",
+    "Arabic": "ﻖﻴﻤﻋ"
+  },
+  "464": {
+    "English": "moon",
+    "Arabic": "ﺮﻤﻗ"
+  },
+  "465": {
+    "English": "island",
+    "Arabic": "ﺓﺮﻳﺰﺟ"
+  },
+  "466": {
+    "English": "foot",
+    "Arabic": "ﻡﺪﻗ"
+  },
+  "467": {
+    "English": "system",
+    "Arabic": "ﻡﺎﻈﻧ"
+  },
+  "468": {
+    "English": "busy",
+    "Arabic": "ﻝﻮﻐﺸﻣ"
+  },
+  "469": {
+    "English": "test",
+    "Arabic": "ﻥﺎﺤﺘﻣﺍ"
+  },
+  "470": {
+    "English": "record",
+    "Arabic": "ﻞﺠﺳ"
+  },
+  "471": {
+    "English": "boat",
+    "Arabic": "ﺏﺭﺎﻗ"
+  },
+  "472": {
+    "English": "common",
+    "Arabic": "ﻊﺋﺎﺷ"
+  },
+  "473": {
+    "English": "gold",
+    "Arabic": "ﺐﻫﺫ"
+  },
+  "474": {
+    "English": "possible",
+    "Arabic": "ﻦﻜﻤﻣ"
+  },
+  "475": {
+    "English": "plane",
+    "Arabic": "ﺓﺮﺋﺎﻃ"
+  },
+  "476": {
+    "English": "stead",
+    "Arabic": "ﻊﺿﻭ"
+  },
+  "477": {
+    "English": "dry",
+    "Arabic": "ﻑﺎﺟ"
+  },
+  "478": {
+    "English": "wonder",
+    "Arabic": "ﺐﺠﻌﺘﻳ"
+  },
+  "479": {
+    "English": "laugh",
+    "Arabic": "ﻚﺤﻀﻳ"
+  },
+  "480": {
+    "English": "thousand",
+    "Arabic": "ﻒﻟﺃ"
+  },
+  "481": {
+    "English": "ago",
+    "Arabic": "ﺬﻨﻣ"
+  },
+  "482": {
+    "English": "ran",
+    "Arabic": "ﻯﺮﺟ"
+  },
+  "483": {
+    "English": "check",
+    "Arabic": "ﺺﺤﻔﻳ"
+  },
+  "484": {
+    "English": "game",
+    "Arabic": "ﺔﺒﻌﻟ"
+  },
+  "485": {
+    "English": "shape",
+    "Arabic": "ﻞﻜﺷ"
+  },
+  "486": {
+    "English": "equate",
+    "Arabic": "ﺓﺍﻭﺎﺴﻣ"
+  },
+  "487": {
+    "English": "miss",
+    "Arabic": "ﺪﻘﺘﻔﻳ"
+  },
+  "488": {
+    "English": "brought",
+    "Arabic": "ﺮﻀﺣﺃ"
+  },
+  "489": {
+    "English": "heat",
+    "Arabic": "ﺓﺭﺍﺮﺣ"
+  },
+  "490": {
+    "English": "snow",
+    "Arabic": "ﺞﻠﺜﻟﺍ"
+  },
+  "491": {
+    "English": "tire",
+    "Arabic": "ﺔﻠﺠﻌﻟﺍ ﺭﺎﻃﺇ"
+  },
+  "492": {
+    "English": "bring",
+    "Arabic": "ﺮﻀﺤﻳ"
+  },
+  "493": {
+    "English": "yes",
+    "Arabic": "ﻢﻌﻧ"
+  },
+  "494": {
+    "English": "distant",
+    "Arabic": "ﺪﻴﻌﺑ"
+  },
+  "495": {
+    "English": "fill",
+    "Arabic": "ﻸﻤﻳ"
+  },
+  "496": {
+    "English": "east",
+    "Arabic": "ﻕﺮﺷ"
+  },
+  "497": {
+    "English": "paint",
+    "Arabic": "ﺀﻼﻃ"
+  },
+  "498": {
+    "English": "language",
+    "Arabic": "ﺔﻐﻟ"
+  },
+  "499": {
+    "English": "among",
+    "Arabic": "ﻦﻤﺿ"
+  },
+  "500": {
+    "English": "grand",
+    "Arabic": "ﺮﻴﺒﻛ"
+  },
+  "501": {
+    "English": "ball",
+    "Arabic": "ﺓﺮﻛ"
+  },
+  "502": {
+    "English": "yet",
+    "Arabic": "ﻥﻵﺍ ﻰﺘﺣ"
+  },
+  "503": {
+    "English": "wave",
+    "Arabic": "ﺔﺟﻮﻣ"
+  },
+  "504": {
+    "English": "drop",
+    "Arabic": "ﻂﻘﺴﻳ"
+  },
+  "505": {
+    "English": "heart",
+    "Arabic": "ﺐﻠﻗ"
+  },
+  "506": {
+    "English": "am",
+    "Arabic": "ﻥﻮﻛﺃ"
+  },
+  "507": {
+    "English": "present",
+    "Arabic": "ﺮﺿﺎﺣ"
+  },
+  "508": {
+    "English": "heavy",
+    "Arabic": "ﻞﻴﻘﺛ"
+  },
+  "509": {
+    "English": "dance",
+    "Arabic": "ﺺﻗﺮﻟﺍ"
+  },
+  "510": {
+    "English": "engine",
+    "Arabic": "ﻙﺮﺤﻣ"
+  },
+  "511": {
+    "English": "position",
+    "Arabic": "ﻊﺿﻮﻣ"
+  },
+  "512": {
+    "English": "arm",
+    "Arabic": "ﻉﺍﺭﺫ"
+  },
+  "513": {
+    "English": "wide",
+    "Arabic": "ﻊﺳﺍﻭ"
+  },
+  "514": {
+    "English": "sail",
+    "Arabic": "ﺔﺸﻳﺭ"
+  },
+  "515": {
+    "English": "material",
+    "Arabic": "ﺓﺩﺎﻣ"
+  },
+  "516": {
+    "English": "size",
+    "Arabic": "ﺱﺎﻘﻣ"
+  },
+  "517": {
+    "English": "vary",
+    "Arabic": "ﺮﻴﻐﺘﻳ"
+  },
+  "518": {
+    "English": "settle",
+    "Arabic": "ﺮﻘﺘﺴﻳ"
+  },
+  "519": {
+    "English": "speak",
+    "Arabic": "ﻢﻠﻜﺘﻳ"
+  },
+  "520": {
+    "English": "weight",
+    "Arabic": "ﻥﺯﻭ"
+  },
+  "521": {
+    "English": "general",
+    "Arabic": "ﻡﺎﻋ"
+  },
+  "522": {
+    "English": "ice",
+    "Arabic": "ﺪﻴﻠﺟ"
+  },
+  "523": {
+    "English": "matter",
+    "Arabic": "ﻉﻮﺿﻮﻣ"
+  },
+  "524": {
+    "English": "circle",
+    "Arabic": "ﺓﺮﺋﺍﺩ"
+  },
+  "525": {
+    "English": "pair",
+    "Arabic": "ﺝﻭﺯ"
+  },
+  "526": {
+    "English": "include",
+    "Arabic": "ﻞﻤﺸﻳ"
+  },
+  "527": {
+    "English": "divide",
+    "Arabic": "ﻢﺴﻘﻳ"
+  },
+  "528": {
+    "English": "syllable",
+    "Arabic": "ﻲﻈﻔﻟ ﻊﻄﻘﻣ"
+  },
+  "529": {
+    "English": "felt",
+    "Arabic": "ﺮﻌﺷ"
+  },
+  "530": {
+    "English": "perhaps",
+    "Arabic": "ﺎﻤﺑﺭ"
+  },
+  "531": {
+    "English": "pick",
+    "Arabic": "ﺭﺎﺘﺨﻳ"
+  },
+  "532": {
+    "English": "sudden",
+    "Arabic": "ﺓﺄﺠﻓ"
+  },
+  "533": {
+    "English": "count",
+    "Arabic": "ﺩﺪﻋ"
+  },
+  "534": {
+    "English": "square",
+    "Arabic": "ﻊﺑﺮﻣ"
+  },
+  "535": {
+    "English": "reason",
+    "Arabic": "ﺐﺒﺳ"
+  },
+  "536": {
+    "English": "length",
+    "Arabic": "ﻝﻮﻃ"
+  },
+  "537": {
+    "English": "represent",
+    "Arabic": "ﻞﺜﻤﻳ"
+  },
+  "538": {
+    "English": "art",
+    "Arabic": "ﻦﻓ"
+  },
+  "539": {
+    "English": "subject",
+    "Arabic": "ﻉﻮﺿﻮﻣ"
+  },
+  "540": {
+    "English": "region",
+    "Arabic": "ﺔﻘﻄﻨﻣ"
+  },
+  "541": {
+    "English": "energy",
+    "Arabic": "ﺔﻗﺎﻃ"
+  },
+  "542": {
+    "English": "hunt",
+    "Arabic": "ﺓﺩﺭﺎﻄﻣ"
+  },
+  "543": {
+    "English": "probable",
+    "Arabic": "ﻞﻤﺘﺤﻣ"
+  },
+  "544": {
+    "English": "bed",
+    "Arabic": "ﺮﻳﺮﺳ"
+  },
+  "545": {
+    "English": "brother",
+    "Arabic": "ﺥﺃ"
+  },
+  "546": {
+    "English": "egg",
+    "Arabic": "ﺔﻀﻴﺑ"
+  },
+  "547": {
+    "English": "ride",
+    "Arabic": "ﺐﻛﺮﻳ"
+  },
+  "548": {
+    "English": "cell",
+    "Arabic": "ﺔﻴﻠﺧ"
+  },
+  "549": {
+    "English": "believe",
+    "Arabic": "ﺪﻘﺘﻌﻳ"
+  },
+  "550": {
+    "English": "fraction",
+    "Arabic": "ﺀﺰﺟ"
+  },
+  "551": {
+    "English": "forest",
+    "Arabic": "ﺔﺑﺎﻏ"
+  },
+  "552": {
+    "English": "sit",
+    "Arabic": "ﺲﻠﺠﻳ"
+  },
+  "553": {
+    "English": "race",
+    "Arabic": "ﻕﺎﺒﺳ"
+  },
+  "554": {
+    "English": "window",
+    "Arabic": "ﻙﺎﺒﺷ ﻭﺍ ﺓﺬﻓﺎﻧ"
+  },
+  "555": {
+    "English": "store",
+    "Arabic": "ﻞﺤﻣ"
+  },
+  "556": {
+    "English": "summer",
+    "Arabic": "ﻒﻴﺻ"
+  },
+  "557": {
+    "English": "train",
+    "Arabic": "ﺏﺭﺪﻳ"
+  },
+  "558": {
+    "English": "sleep",
+    "Arabic": "ﻡﺎﻨﻳ"
+  },
+  "559": {
+    "English": "prove",
+    "Arabic": "ﺖﺒﺜﻳ"
+  },
+  "560": {
+    "English": "lone",
+    "Arabic": "ﺪﻴﺣﻭ"
+  },
+  "561": {
+    "English": "leg",
+    "Arabic": "ﻞﺟﺭ"
+  },
+  "562": {
+    "English": "exercise",
+    "Arabic": "ﺱﺭﺎﻤﻳ"
+  },
+  "563": {
+    "English": "wall",
+    "Arabic": "ﻂﺋﺎﺣ"
+  },
+  "564": {
+    "English": "catch",
+    "Arabic": "ﻚﺴﻤﻳ"
+  },
+  "565": {
+    "English": "mount",
+    "Arabic": "ﺩﺪﻌﺘﺗ"
+  },
+  "566": {
+    "English": "wish",
+    "Arabic": "ﻰﻨﻤﺘﻳ"
+  },
+  "567": {
+    "English": "sky",
+    "Arabic": "ﺀﺎﻤﺳ"
+  },
+  "568": {
+    "English": "board",
+    "Arabic": "ﺓﺭﻮﺒﺳ"
+  },
+  "569": {
+    "English": "joy",
+    "Arabic": "ﺡﺮﻣ"
+  },
+  "570": {
+    "English": "winter",
+    "Arabic": "ﺀﺎﺘﺷ"
+  },
+  "571": {
+    "English": "sat",
+    "Arabic": "ﺪﻌﻗ"
+  },
+  "572": {
+    "English": "written",
+    "Arabic": "ﺏﻮﺘﻜﻣ"
+  },
+  "573": {
+    "English": "wild",
+    "Arabic": "ﻱﺮﺑ"
+  },
+  "574": {
+    "English": "instrument",
+    "Arabic": "ﺓﺍﺩﺃ"
+  },
+  "575": {
+    "English": "kept",
+    "Arabic": "ﻅﺎﻔﺘﺣﻻﺍ"
+  },
+  "576": {
+    "English": "glass",
+    "Arabic": "ﺝﺎﺟﺯ"
+  },
+  "577": {
+    "English": "grass",
+    "Arabic": "ﺐﺸﻋ"
+  },
+  "578": {
+    "English": "cow",
+    "Arabic": "ﺓﺮﻘﺑ"
+  },
+  "579": {
+    "English": "job",
+    "Arabic": "ﺔﻔﻴﻇﻭ"
+  },
+  "580": {
+    "English": "edge",
+    "Arabic": "ﺔﻓﺎﺣ"
+  },
+  "581": {
+    "English": "sign",
+    "Arabic": "ﺔﺘﻓﻻ"
+  },
+  "582": {
+    "English": "visit",
+    "Arabic": "ﺭﻭﺰﻳ"
+  },
+  "583": {
+    "English": "past",
+    "Arabic": "ﻲﺿﺎﻣ"
+  },
+  "584": {
+    "English": "soft",
+    "Arabic": "ﻢﻋﺎﻧ"
+  },
+  "585": {
+    "English": "fun",
+    "Arabic": "ﺭﺍﺰﻫ"
+  },
+  "586": {
+    "English": "bright",
+    "Arabic": "ﻊﻃﺎﺳ"
+  },
+  "587": {
+    "English": "gas",
+    "Arabic": "ﺯﺎﻏ"
+  },
+  "588": {
+    "English": "weather",
+    "Arabic": "ﺲﻘﻃ"
+  },
+  "589": {
+    "English": "month",
+    "Arabic": "ﺮﻬﺷ"
+  },
+  "590": {
+    "English": "million",
+    "Arabic": "ﻥﻮﻴﻠﻣ"
+  },
+  "591": {
+    "English": "bear",
+    "Arabic": "ﺏﺩ"
+  },
+  "592": {
+    "English": "finish",
+    "Arabic": "ﻲﻬﻨﻳ"
+  },
+  "593": {
+    "English": "happy",
+    "Arabic": "ﺪﻴﻌﺳ"
+  },
+  "594": {
+    "English": "hope",
+    "Arabic": "ﻞﻣﺄﻳ"
+  },
+  "595": {
+    "English": "flower",
+    "Arabic": "ﺩﺭﻭ"
+  },
+  "596": {
+    "English": "clothe",
+    "Arabic": "ﺲﺑﻼﻣ"
+  },
+  "597": {
+    "English": "strange",
+    "Arabic": "ﺐﻳﺮﻏ"
+  },
+  "598": {
+    "English": "gone",
+    "Arabic": "ﺐﻫﺫ"
+  },
+  "599": {
+    "English": "jump",
+    "Arabic": "ﺰﻔﻘﻟﺍ"
+  },
+  "600": {
+    "English": "baby",
+    "Arabic": "ﻞﻔﻃ"
+  },
+  "601": {
+    "English": "eight",
+    "Arabic": "ﺔﻴﻧﺎﻤﺛ"
+  },
+  "602": {
+    "English": "village",
+    "Arabic": "ﺔﻳﺮﻗ"
+  },
+  "603": {
+    "English": "meet",
+    "Arabic": "ﻞﺑﺎﻘﻳ"
+  },
+  "604": {
+    "English": "root",
+    "Arabic": "ﺭﺬﺟ"
+  },
+  "605": {
+    "English": "buy",
+    "Arabic": "ﻱﺮﺘﺸﻳ"
+  },
+  "606": {
+    "English": "raise",
+    "Arabic": "ﻊﻓﺮﻳ"
+  },
+  "607": {
+    "English": "solve",
+    "Arabic": "ﻞﺤﻳ"
+  },
+  "608": {
+    "English": "metal",
+    "Arabic": "ﻥﺪﻌﻣ"
+  },
+  "609": {
+    "English": "whether",
+    "Arabic": "ﺀﺍﻮﺳ"
+  },
+  "610": {
+    "English": "push",
+    "Arabic": "ﻊﻓﺪﻳ"
+  },
+  "611": {
+    "English": "seven",
+    "Arabic": "ﺔﻌﺒﺳ"
+  },
+  "612": {
+    "English": "paragraph",
+    "Arabic": "ﺓﺮﻘﻓ"
+  },
+  "613": {
+    "English": "third",
+    "Arabic": "ﺚﻟﺎﺛ"
+  },
+  "614": {
+    "English": "shall",
+    "Arabic": "ﻑﻮﺳ"
+  },
+  "615": {
+    "English": "held",
+    "Arabic": "ﺰﺠﺘﺤﻣ"
+  },
+  "616": {
+    "English": "hair",
+    "Arabic": "ﺮﻌﺷ"
+  },
+  "617": {
+    "English": "describe",
+    "Arabic": "ﻒﺼﻳ"
+  },
+  "618": {
+    "English": "cook",
+    "Arabic": "ﺦﺒﻄﻳ"
+  },
+  "619": {
+    "English": "floor",
+    "Arabic": "ﺔﻴﺿﺭﺃ"
+  },
+  "620": {
+    "English": "either",
+    "Arabic": "ﺎﻀﻳﺃ"
+  },
+  "621": {
+    "English": "result",
+    "Arabic": "ﺔﺠﻴﺘﻧ"
+  },
+  "622": {
+    "English": "burn",
+    "Arabic": "ﻕﺮﺤﻳ"
+  },
+  "623": {
+    "English": "hill",
+    "Arabic": "ﺔﻠﺗ"
+  },
+  "624": {
+    "English": "safe",
+    "Arabic": "ﻦﻣﺁ"
+  },
+  "625": {
+    "English": "cat",
+    "Arabic": "ﺔﻄﻗ"
+  },
+  "626": {
+    "English": "century",
+    "Arabic": "ﻥﺮﻗ"
+  },
+  "627": {
+    "English": "consider",
+    "Arabic": "ﺮﺒﺘﻌﻳ"
+  },
+  "628": {
+    "English": "type",
+    "Arabic": "ﺐﺘﻜﻳ"
+  },
+  "629": {
+    "English": "law",
+    "Arabic": "ﻥﻮﻧﺎﻗ"
+  },
+  "630": {
+    "English": "bit",
+    "Arabic": "ﻞﻴﻠﻗ"
+  },
+  "631": {
+    "English": "coast",
+    "Arabic": "ﻞﺣﺎﺳ"
+  },
+  "632": {
+    "English": "copy",
+    "Arabic": "ﺦﺴﻨﻳ"
+  },
+  "633": {
+    "English": "phrase",
+    "Arabic": "ﺓﺭﺎﺒﻋ"
+  },
+  "634": {
+    "English": "silent",
+    "Arabic": "ﺔﺘﻣﺎﺻ"
+  },
+  "635": {
+    "English": "tall",
+    "Arabic": "ﻞﻳﻮﻃ"
+  },
+  "636": {
+    "English": "sand",
+    "Arabic": "ﻞﻣﺭ"
+  },
+  "637": {
+    "English": "soil",
+    "Arabic": "ﺔﺑﺮﺗ"
+  },
+  "638": {
+    "English": "roll",
+    "Arabic": "ﺔﻓﺎﻔﻟ"
+  },
+  "639": {
+    "English": "temperature",
+    "Arabic": "ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ"
+  },
+  "640": {
+    "English": "finger",
+    "Arabic": "ﺪﻴﻟﺍ ﻊﺒﺻﺍ"
+  },
+  "641": {
+    "English": "industry",
+    "Arabic": "ﺔﻋﺎﻨﺻ"
+  },
+  "642": {
+    "English": "value",
+    "Arabic": "ﺔﻤﻴﻗ"
+  },
+  "643": {
+    "English": "fight",
+    "Arabic": "ﻙﺭﺎﻌﻳ"
+  },
+  "644": {
+    "English": "lie",
+    "Arabic": "ﺏﺬﻛ"
+  },
+  "645": {
+    "English": "beat",
+    "Arabic": "ﻡﺰﻬﻳ"
+  },
+  "646": {
+    "English": "excite",
+    "Arabic": "ﺮﻴﺜﻳ"
+  },
+  "647": {
+    "English": "natural",
+    "Arabic": "ﻲﻌﻴﺒﻃ"
+  },
+  "648": {
+    "English": "view",
+    "Arabic": "ﺮﻈﻨﻣ"
+  },
+  "649": {
+    "English": "sense",
+    "Arabic": "ﺔﺳﺎﺣ"
+  },
+  "650": {
+    "English": "ear",
+    "Arabic": "ﻥﺫﺃ"
+  },
+  "651": {
+    "English": "else",
+    "Arabic": "ﺮﺧﺁ"
+  },
+  "652": {
+    "English": "quite",
+    "Arabic": "ﺎﻣﺎﻤﺗ"
+  },
+  "653": {
+    "English": "broke",
+    "Arabic": "ﻢﻄﺣ"
+  },
+  "654": {
+    "English": "case",
+    "Arabic": "ﺔﻴﻀﻗ"
+  },
+  "655": {
+    "English": "middle",
+    "Arabic": "ﻂﺳﻭ"
+  },
+  "656": {
+    "English": "kill",
+    "Arabic": "ﻞﺘﻗ"
+  },
+  "657": {
+    "English": "son",
+    "Arabic": "ﻦﺑﺍ"
+  },
+  "658": {
+    "English": "lake",
+    "Arabic": "ﺓﺮﻴﺤﺑ"
+  },
+  "659": {
+    "English": "moment",
+    "Arabic": "ﺔﻈﺤﻟ"
+  },
+  "660": {
+    "English": "scale",
+    "Arabic": "ﻢﺠﺣ"
+  },
+  "661": {
+    "English": "loud",
+    "Arabic": "ﻲﻟﺎﻋ"
+  },
+  "662": {
+    "English": "spring",
+    "Arabic": "ﻊﻴﺑﺭ"
+  },
+  "663": {
+    "English": "observe",
+    "Arabic": "ﺐﻗﺍﺮﻳ"
+  },
+  "664": {
+    "English": "child",
+    "Arabic": "ﻞﻔﻃ"
+  },
+  "665": {
+    "English": "straight",
+    "Arabic": "ﻢﻴﻘﺘﺴﻣ"
+  },
+  "666": {
+    "English": "consonant",
+    "Arabic": "ﻦﻛﺎﺳ ﻑﺮﺣ"
+  },
+  "667": {
+    "English": "nation",
+    "Arabic": "ﺔﻣﺃ"
+  },
+  "668": {
+    "English": "dictionary",
+    "Arabic": "ﺱﻮﻣﺎﻗ"
+  },
+  "669": {
+    "English": "milk",
+    "Arabic": "ﻦﺒﻟ"
+  },
+  "670": {
+    "English": "speed",
+    "Arabic": "ﺔﻋﺮﺳ"
+  },
+  "671": {
+    "English": "method",
+    "Arabic": "ﺔﻘﻳﺮﻃ"
+  },
+  "672": {
+    "English": "organ",
+    "Arabic": "ﻮﻀﻋ"
+  },
+  "673": {
+    "English": "pay",
+    "Arabic": "ﻊﻓﺪﻳ"
+  },
+  "674": {
+    "English": "age",
+    "Arabic": "ﺮﻤﻋ"
+  },
+  "675": {
+    "English": "section",
+    "Arabic": "ﻢﺴﻗ"
+  },
+  "676": {
+    "English": "dress",
+    "Arabic": "ﻥﺎﺘﺴﻓ"
+  },
+  "677": {
+    "English": "cloud",
+    "Arabic": "ﺏﺎﺤﺳ"
+  },
+  "678": {
+    "English": "surprise",
+    "Arabic": "ﺓﺄﺟﺎﻔﻣ"
+  },
+  "679": {
+    "English": "quiet",
+    "Arabic": "ﺉﺩﺎﻫ"
+  },
+  "680": {
+    "English": "stone",
+    "Arabic": "ﺮﺠﺣ"
+  },
+  "681": {
+    "English": "tiny",
+    "Arabic": "ﻢﺠﺤﻟﺍ ﺮﻴﻐﺻ"
+  },
+  "682": {
+    "English": "climb",
+    "Arabic": "ﻖﻠﺴﺗ"
+  },
+  "683": {
+    "English": "cool",
+    "Arabic": "ﻊﺋﺍﺭ"
+  },
+  "684": {
+    "English": "design",
+    "Arabic": "ﻢﻴﻤﺼﺗ"
+  },
+  "685": {
+    "English": "poor",
+    "Arabic": "ﺮﻴﻘﻓ"
+  },
+  "686": {
+    "English": "lot",
+    "Arabic": "ﺮﻴﺜﻛ"
+  },
+  "687": {
+    "English": "experiment",
+    "Arabic": "ﺔﺑﺮﺠﺗ"
+  },
+  "688": {
+    "English": "bottom",
+    "Arabic": "ﻉﺎﻗ"
+  },
+  "689": {
+    "English": "key",
+    "Arabic": "ﺡﺎﺘﻔﻣ"
+  },
+  "690": {
+    "English": "iron",
+    "Arabic": "ﺪﻳﺪﺣ"
+  },
+  "691": {
+    "English": "single",
+    "Arabic": "ﺏﺰﻋﺃ"
+  },
+  "692": {
+    "English": "stick",
+    "Arabic": "ﻕﺰﻠﻳ"
+  },
+  "693": {
+    "English": "flat",
+    "Arabic": "ﻱﻮﺘﺴﻣ"
+  },
+  "694": {
+    "English": "twenty",
+    "Arabic": "ﻦﻳﺮﺸﻋ"
+  },
+  "695": {
+    "English": "skin",
+    "Arabic": "ﺪﻠﺟ"
+  },
+  "696": {
+    "English": "smile",
+    "Arabic": "ﻢﺴﺘﺒﻳ"
+  },
+  "697": {
+    "English": "crease",
+    "Arabic": "ﺪﻌﺠﺗ"
+  },
+  "698": {
+    "English": "hole",
+    "Arabic": "ﺔﺤﺘﻓ"
+  },
+  "699": {
+    "English": "trade",
+    "Arabic": "ﺓﺭﺎﺠﺗ"
+  },
+  "700": {
+    "English": "melody",
+    "Arabic": "ﻦﺤﻟ"
+  },
+  "701": {
+    "English": "trip",
+    "Arabic": "ﺔﻠﺣﺭ"
+  },
+  "702": {
+    "English": "office",
+    "Arabic": "ﺐﺘﻜﻣ"
+  },
+  "703": {
+    "English": "receive",
+    "Arabic": "ﻢﻠﺘﺴﻳ"
+  },
+  "704": {
+    "English": "row",
+    "Arabic": "ﻒﺻ"
+  },
+  "705": {
+    "English": "mouth",
+    "Arabic": "ﻢﻓ"
+  },
+  "706": {
+    "English": "exact",
+    "Arabic": "ﻂﺒﻀﻟﺎﺑ"
+  },
+  "707": {
+    "English": "symbol",
+    "Arabic": "ﺰﻣﺭ"
+  },
+  "708": {
+    "English": "die",
+    "Arabic": "ﺕﻮﻣ"
+  },
+  "709": {
+    "English": "least",
+    "Arabic": "ﻞﻗﻷﺍ"
+  },
+  "710": {
+    "English": "trouble",
+    "Arabic": "ﺔﻠﻜﺸﻣ"
+  },
+  "711": {
+    "English": "shout",
+    "Arabic": "ﺔﺤﻴﺻ ،ﺥﺮﺼﻳ ،ﺢﻴﺼﻳ"
+  },
+  "712": {
+    "English": "except",
+    "Arabic": "ﻲﻨﺜﺘﺴﻳ"
+  },
+  "713": {
+    "English": "wrote",
+    "Arabic": "ﺐﺘﻛ"
+  },
+  "714": {
+    "English": "seed",
+    "Arabic": "ﺓﺭﺬﺑ"
+  },
+  "715": {
+    "English": "tone",
+    "Arabic": "ﺔﻤﻐﻧ"
+  },
+  "716": {
+    "English": "join",
+    "Arabic": "ﻢﻀﻨﻳ"
+  },
+  "717": {
+    "English": "suggest",
+    "Arabic": "ﺡﺮﺘﻘﻳ"
+  },
+  "718": {
+    "English": "clean",
+    "Arabic": "ﻒﻈﻨﻳ"
+  },
+  "719": {
+    "English": "break",
+    "Arabic": "ﺔﺣﺍﺮﺘﺳﺍ"
+  },
+  "720": {
+    "English": "lady",
+    "Arabic": "ﺓﺪﻴﺳ"
+  },
+  "721": {
+    "English": "yard",
+    "Arabic": "ﻝﺰﻨﻣ ﺔﻘﻳﺪﺣ"
+  },
+  "722": {
+    "English": "rise",
+    "Arabic": "ﻮﻠﻌﻳ"
+  },
+  "723": {
+    "English": "bad",
+    "Arabic": "ﺀﻲﺳ"
+  },
+  "724": {
+    "English": "blow",
+    "Arabic": "ﺦﻔﻨﻳ"
+  },
+  "725": {
+    "English": "oil",
+    "Arabic": "ﺖﻳﺯ"
+  },
+  "726": {
+    "English": "blood",
+    "Arabic": "ﻡﺩ"
+  },
+  "727": {
+    "English": "touch",
+    "Arabic": "ﺲﻤﻠﻳ"
+  },
+  "728": {
+    "English": "grew",
+    "Arabic": "ﺖﻤﻧ"
+  },
+  "729": {
+    "English": "cent",
+    "Arabic": "ﺖﻨﺳ"
+  },
+  "730": {
+    "English": "mix",
+    "Arabic": "ﺝﺰﻣ"
+  },
+  "731": {
+    "English": "team",
+    "Arabic": "ﻖﻳﺮﻓ"
+  },
+  "732": {
+    "English": "wire",
+    "Arabic": "ﻙﻼﺳﻷﺍ"
+  },
+  "733": {
+    "English": "cost",
+    "Arabic": "ﻒﻠﻜﻳ"
+  },
+  "734": {
+    "English": "lost",
+    "Arabic": "ﻊﺋﺎﺿ"
+  },
+  "735": {
+    "English": "brown",
+    "Arabic": "ﻲﻨﺑ"
+  },
+  "736": {
+    "English": "wear",
+    "Arabic": "ﻱﺪﺗﺮﻳ"
+  },
+  "737": {
+    "English": "garden",
+    "Arabic": "ﺔﻘﻳﺪﺣ"
+  },
+  "738": {
+    "English": "equal",
+    "Arabic": "ﻱﻭﺎﺴﺘﻣ"
+  },
+  "739": {
+    "English": "sent",
+    "Arabic": "ﻞﺳﺮﻣ"
+  },
+  "740": {
+    "English": "choose",
+    "Arabic": "ﺭﺎﺘﺨﻳ"
+  },
+  "741": {
+    "English": "fell",
+    "Arabic": "ﻂﻘﺴﻳ"
+  },
+  "742": {
+    "English": "fit",
+    "Arabic": "ﻢﺋﻼﻣ"
+  },
+  "743": {
+    "English": "flow",
+    "Arabic": "ﻖﻓﺪﺗ"
+  },
+  "744": {
+    "English": "fair",
+    "Arabic": "ﻝﺪﻋ"
+  },
+  "745": {
+    "English": "bank",
+    "Arabic": "ﻚﻨﺑ"
+  },
+  "746": {
+    "English": "collect",
+    "Arabic": "ﻊﻤﺠﻳ"
+  },
+  "747": {
+    "English": "save",
+    "Arabic": "ﻆﻔﺤﻳ"
+  },
+  "748": {
+    "English": "control",
+    "Arabic": "ﻢﻜﺤﺘﻳ"
+  },
+  "749": {
+    "English": "decimal",
+    "Arabic": "ﻱﺮﺸﻋ ﺩﺪﻋ"
+  },
+  "750": {
+    "English": "gentle",
+    "Arabic": "ﻒﻴﻄﻟ"
+  },
+  "751": {
+    "English": "woman",
+    "Arabic": "ﺓﺃﺮﻣﺍ"
+  },
+  "752": {
+    "English": "captain",
+    "Arabic": "ﺐﺨﺘﻨﻤﻟﺍ ﺪﺋﺎﻗ"
+  },
+  "753": {
+    "English": "practice",
+    "Arabic": "ﺱﺭﺎﻤﻳ"
+  },
+  "754": {
+    "English": "separate",
+    "Arabic": "ﻕﺮﻔﺘﻣ"
+  },
+  "755": {
+    "English": "difficult",
+    "Arabic": "ﺐﻌﺻ"
+  },
+  "756": {
+    "English": "doctor",
+    "Arabic": "ﺐﻴﺒﻃ"
+  },
+  "757": {
+    "English": "please",
+    "Arabic": "ﺖﺤﻤﺳ ﻮﻟ"
+  },
+  "758": {
+    "English": "protect",
+    "Arabic": "ﻲﻤﺤﻳ"
+  },
+  "759": {
+    "English": "noon",
+    "Arabic": "ﺓﺮﻴﻬﻈﻟﺍ ﺖﻗﻭ"
+  },
+  "760": {
+    "English": "whose",
+    "Arabic": "ﻦﻤﻟ"
+  },
+  "761": {
+    "English": "locate",
+    "Arabic": "ﺩﺪﺣ"
+  },
+  "762": {
+    "English": "ring",
+    "Arabic": "ﺱﺮﺟ"
+  },
+  "763": {
+    "English": "character",
+    "Arabic": "ﺔﻴﺼﺨﺷ"
+  },
+  "764": {
+    "English": "insect",
+    "Arabic": "ﺓﺮﺸﺣ"
+  },
+  "765": {
+    "English": "caught",
+    "Arabic": "ﻚﺴﻣﺃ"
+  },
+  "766": {
+    "English": "period",
+    "Arabic": "ﺓﺮﺘﻓ"
+  },
+  "767": {
+    "English": "indicate",
+    "Arabic": "ﺮﻴﺸﻳ"
+  },
+  "768": {
+    "English": "radio",
+    "Arabic": "ﻉﺎﻳﺬﻣ"
+  },
+  "769": {
+    "English": "spoke",
+    "Arabic": "ﻚﻠﺳ"
+  },
+  "770": {
+    "English": "atom",
+    "Arabic": "ﺓﺭﺫ"
+  },
+  "771": {
+    "English": "human",
+    "Arabic": "ﺮﺸﺑ"
+  },
+  "772": {
+    "English": "history",
+    "Arabic": "ﺦﻳﺭﺎﺗ"
+  },
+  "773": {
+    "English": "effect",
+    "Arabic": "ﺮﻴﺛﺄﺗ"
+  },
+  "774": {
+    "English": "electric",
+    "Arabic": "ﻲﺋﺎﺑﺮﻬﻛ"
+  },
+  "775": {
+    "English": "expect",
+    "Arabic": "ﻊﻗﻮﺘﻳ"
+  },
+  "776": {
+    "English": "crop",
+    "Arabic": "ﺹﺎﺼﺘﻗﺍ"
+  },
+  "777": {
+    "English": "modern",
+    "Arabic": "ﺚﻳﺪﺣ"
+  },
+  "778": {
+    "English": "element",
+    "Arabic": "ﺮﺼﻨﻋ"
+  },
+  "779": {
+    "English": "hit",
+    "Arabic": "ﺏﺮﻀﻳ"
+  },
+  "780": {
+    "English": "student",
+    "Arabic": "ﺐﻟﺎﻃ"
+  },
+  "781": {
+    "English": "corner",
+    "Arabic": "ﻦﻛﺭ"
+  },
+  "782": {
+    "English": "party",
+    "Arabic": "ﺏﺰﺣ"
+  },
+  "783": {
+    "English": "supply",
+    "Arabic": "ﺩﺍﺪﻣﺇ"
+  },
+  "784": {
+    "English": "bone",
+    "Arabic": "ﻢﻈﻋ"
+  },
+  "785": {
+    "English": "rail",
+    "Arabic": "ﺔﻳﺪﻳﺪﺣ ﺔﻜﺳ"
+  },
+  "786": {
+    "English": "imagine",
+    "Arabic": "ﺭﻮﺼﺘﻳ"
+  },
+  "787": {
+    "English": "provide",
+    "Arabic": "ﺪﻤﻳ"
+  },
+  "788": {
+    "English": "agree",
+    "Arabic": "ﻖﻓﺍﻮﻳ"
+  },
+  "789": {
+    "English": "thus",
+    "Arabic": "ﺍﺬﻜﻫ"
+  },
+  "790": {
+    "English": "capital",
+    "Arabic": "ﺔﻤﺻﺎﻋ"
+  },
+  "791": {
+    "English": "won't",
+    "Arabic": "ﺩﻮﻌﺘﻣ"
+  },
+  "792": {
+    "English": "chair",
+    "Arabic": "ﻲﺳﺮﻛ"
+  },
+  "793": {
+    "English": "danger",
+    "Arabic": "ﺮﻄﺧ"
+  },
+  "794": {
+    "English": "fruit",
+    "Arabic": "ﺔﻬﻛﺎﻓ"
+  },
+  "795": {
+    "English": "rich",
+    "Arabic": "ﻱﺮﺛ"
+  },
+  "796": {
+    "English": "thick",
+    "Arabic": "ﻚﻴﻤﺳ"
+  },
+  "797": {
+    "English": "soldier",
+    "Arabic": "ﻱﺪﻨﺟ"
+  },
+  "798": {
+    "English": "process",
+    "Arabic": "ﺔﻴﻠﻤﻋ"
+  },
+  "799": {
+    "English": "operate",
+    "Arabic": "ﻞﻤﻌﻟﺍ"
+  },
+  "800": {
+    "English": "guess",
+    "Arabic": "ﻦﻤﺨﻳ"
+  },
+  "801": {
+    "English": "necessary",
+    "Arabic": "ﻱﺭﻭﺮﺿ"
+  },
+  "802": {
+    "English": "sharp",
+    "Arabic": "ﺩﺎﺣ"
+  },
+  "803": {
+    "English": "wing",
+    "Arabic": "ﺡﺎﻨﺟ"
+  },
+  "804": {
+    "English": "create",
+    "Arabic": "ﻖﻠﺨﻳ"
+  },
+  "805": {
+    "English": "neighbor",
+    "Arabic": "ﺭﺎﺟ"
+  },
+  "806": {
+    "English": "wash",
+    "Arabic": "ﻞﺴﻏ"
+  },
+  "807": {
+    "English": "bat",
+    "Arabic": "ﺏﺮﻀﻣ"
+  },
+  "808": {
+    "English": "rather",
+    "Arabic": "ﻻﺪﺑ"
+  },
+  "809": {
+    "English": "crowd",
+    "Arabic": "ﺪﺸﺤﻳ"
+  },
+  "810": {
+    "English": "corn",
+    "Arabic": "ﺓﺭﺫ ﺏﻮﺒﺣ"
+  },
+  "811": {
+    "English": "compare",
+    "Arabic": "ﻥﺭﺎﻘﻳ"
+  },
+  "812": {
+    "English": "poem",
+    "Arabic": "ﺓﺪﻴﺼﻗ"
+  },
+  "813": {
+    "English": "string",
+    "Arabic": "ﻂﻴﺧ"
+  },
+  "814": {
+    "English": "bell",
+    "Arabic": "ﺱﺮﺟ"
+  },
+  "815": {
+    "English": "depend",
+    "Arabic": "ﺪﻤﺘﻌﺗ"
+  },
+  "816": {
+    "English": "meat",
+    "Arabic": "ﺔﻤﺤﻟ"
+  },
+  "817": {
+    "English": "rub",
+    "Arabic": "ﻙﺮﻓ"
+  },
+  "818": {
+    "English": "tube",
+    "Arabic": "ﺏﻮﺒﻧﺃ"
+  },
+  "819": {
+    "English": "famous",
+    "Arabic": "ﺭﻮﻬﺸﻣ"
+  },
+  "820": {
+    "English": "dollar",
+    "Arabic": "ﺭﻻﻭﺩ"
+  },
+  "821": {
+    "English": "stream",
+    "Arabic": "ﻖﻓﺪﺗ"
+  },
+  "822": {
+    "English": "fear",
+    "Arabic": "ﻑﺎﺨﻳ"
+  },
+  "823": {
+    "English": "sight",
+    "Arabic": "ﺔﻳﺅﺭ"
+  },
+  "824": {
+    "English": "thin",
+    "Arabic": "ﻊﻴﻓﺭ"
+  },
+  "825": {
+    "English": "triangle",
+    "Arabic": "ﺚﻠﺜﻣ"
+  },
+  "826": {
+    "English": "planet",
+    "Arabic": "ﺐﻛﻮﻛ"
+  },
+  "827": {
+    "English": "hurry",
+    "Arabic": "ﻞﺠﻋ"
+  },
+  "828": {
+    "English": "chief",
+    "Arabic": "ﺲﻴﺋﺭ"
+  },
+  "829": {
+    "English": "colony",
+    "Arabic": "ﺓﺮﻤﻌﺘﺴﻣ"
+  },
+  "830": {
+    "English": "clock",
+    "Arabic": "ﺔﻋﺎﺳ"
+  },
+  "831": {
+    "English": "mine",
+    "Arabic": "ﻲﻜﻠﻣ"
+  },
+  "832": {
+    "English": "tie",
+    "Arabic": "ﺔﻄﺑﺍﺭ"
+  },
+  "833": {
+    "English": "enter",
+    "Arabic": "ﻞﺧﺪﻳ"
+  },
+  "834": {
+    "English": "major",
+    "Arabic": "ﻲﺴﻴﺋﺭ"
+  },
+  "835": {
+    "English": "fresh",
+    "Arabic": "ﺝﺯﺎﻃ"
+  },
+  "836": {
+    "English": "search",
+    "Arabic": "ﺚﺤﺒﻳ"
+  },
+  "837": {
+    "English": "send",
+    "Arabic": "ﻞﺳﺮﻳ"
+  },
+  "838": {
+    "English": "yellow",
+    "Arabic": "ﺮﻔﺻﺃ"
+  },
+  "839": {
+    "English": "gun",
+    "Arabic": "ﺔﻴﻗﺪﻨﺑ"
+  },
+  "840": {
+    "English": "allow",
+    "Arabic": "ﺢﻤﺴﻳ"
+  },
+  "841": {
+    "English": "print",
+    "Arabic": "ﺔﻌﺒﻄﻣ"
+  },
+  "842": {
+    "English": "dead",
+    "Arabic": "ﺖﻴﻣ"
+  },
+  "843": {
+    "English": "spot",
+    "Arabic": "ﺔﻌﻘﺑ"
+  },
+  "844": {
+    "English": "desert",
+    "Arabic": "ﺀﺍﺮﺤﺻ"
+  },
+  "845": {
+    "English": "suit",
+    "Arabic": "ﺔﻟﺪﺑ"
+  },
+  "846": {
+    "English": "current",
+    "Arabic": "ﺮﺿﺎﺣ"
+  },
+  "847": {
+    "English": "lift",
+    "Arabic": "ﻊﻓﺮﻳ"
+  },
+  "848": {
+    "English": "rose",
+    "Arabic": "ﺓﺩﺭﻭ"
+  },
+  "849": {
+    "English": "continue",
+    "Arabic": "ﻞﻤﻜﻳ"
+  },
+  "850": {
+    "English": "block",
+    "Arabic": "ﺰﺟﺎﺣ"
+  },
+  "851": {
+    "English": "chart",
+    "Arabic": "ﻝﻭﺪﺟ"
+  },
+  "852": {
+    "English": "hat",
+    "Arabic": "ﺔﻌﺒﻗ"
+  },
+  "853": {
+    "English": "sell",
+    "Arabic": "ﻊﻴﺒﻳ"
+  },
+  "854": {
+    "English": "success",
+    "Arabic": "ﺡﺎﺠﻧ"
+  },
+  "855": {
+    "English": "company",
+    "Arabic": "ﺔﻛﺮﺷ"
+  },
+  "856": {
+    "English": "subtract",
+    "Arabic": "ﻢﺼﺧ ﻭﺍ ﺡﺮﻃ"
+  },
+  "857": {
+    "English": "event",
+    "Arabic": "ﺙﺪﺣ"
+  },
+  "858": {
+    "English": "particular",
+    "Arabic": "ﺹﺎﺧ"
+  },
+  "859": {
+    "English": "deal",
+    "Arabic": "ﻕﺎﻔﺗﺍ"
+  },
+  "860": {
+    "English": "swim",
+    "Arabic": "ﺔﺣﺎﺒﺴﻟﺍ"
+  },
+  "861": {
+    "English": "term",
+    "Arabic": "ﻁﺮﺷ"
+  },
+  "862": {
+    "English": "opposite",
+    "Arabic": "ﺲﻜﻋ"
+  },
+  "863": {
+    "English": "wife",
+    "Arabic": "ﺔﺟﻭﺯ"
+  },
+  "864": {
+    "English": "shoe",
+    "Arabic": "ﺀﺍﺬﺣ"
+  },
+  "865": {
+    "English": "shoulder",
+    "Arabic": "ﻒﺘﻛ"
+  },
+  "866": {
+    "English": "spread",
+    "Arabic": "ﺭﺎﺸﺘﻧﻻﺍ"
+  },
+  "867": {
+    "English": "arrange",
+    "Arabic": "ﺐﺗﺮﻳ"
+  },
+  "868": {
+    "English": "camp",
+    "Arabic": "ﺮﻜﺴﻌﻣ"
+  },
+  "869": {
+    "English": "invent",
+    "Arabic": "ﻉﺍﺮﺘﺧﺍ"
+  },
+  "870": {
+    "English": "cotton",
+    "Arabic": "ﻦﻄﻘﻟﺍ"
+  },
+  "871": {
+    "English": "born",
+    "Arabic": "ﺪﻟﻭ"
+  },
+  "872": {
+    "English": "determine",
+    "Arabic": "ﺩﺪﺤﻳ"
+  },
+  "873": {
+    "English": "quart",
+    "Arabic": "ﺕﺭﺍﻮﻜﻟﺍ"
+  },
+  "874": {
+    "English": "nine",
+    "Arabic": "ﻊﺴﺗ"
+  },
+  "875": {
+    "English": "truck",
+    "Arabic": "ﺔﻨﺣﺎﺷ"
+  },
+  "876": {
+    "English": "noise",
+    "Arabic": "ﺀﺎﺿﻮﺿ"
+  },
+  "877": {
+    "English": "level",
+    "Arabic": "ﻯﻮﺘﺴﻣ"
+  },
+  "878": {
+    "English": "chance",
+    "Arabic": "ﺔﺻﺮﻓ"
+  },
+  "879": {
+    "English": "gather",
+    "Arabic": "ﻊﻤﺘﺠﻳ"
+  },
+  "880": {
+    "English": "shop",
+    "Arabic": "ﻞﺤﻣ"
+  },
+  "881": {
+    "English": "stretch",
+    "Arabic": "ﺪﺘﻤﺗ"
+  },
+  "882": {
+    "English": "throw",
+    "Arabic": "ﻲﻣﺮﻳ"
+  },
+  "883": {
+    "English": "shine",
+    "Arabic": "ﻕﺮﺸﻳ"
+  },
+  "884": {
+    "English": "property",
+    "Arabic": "ﺔﻴﻜﻠﻣ"
+  },
+  "885": {
+    "English": "column",
+    "Arabic": "ﺩﻮﻤﻋ"
+  },
+  "886": {
+    "English": "molecule",
+    "Arabic": "ﺐﻛﺮﻣ"
+  },
+  "887": {
+    "English": "select",
+    "Arabic": "ﺭﺎﺘﺨﻳ"
+  },
+  "888": {
+    "English": "wrong",
+    "Arabic": "ﺄﻄﺧ"
+  },
+  "889": {
+    "English": "gray",
+    "Arabic": "ﻱﺩﺎﻣﺭ"
+  },
+  "890": {
+    "English": "repeat",
+    "Arabic": "ﺭﺮﻜﻳ"
+  },
+  "891": {
+    "English": "require",
+    "Arabic": "ﺐﻠﻄﺘﻳ"
+  },
+  "892": {
+    "English": "broad",
+    "Arabic": "ﻊﺳﺍﻭ"
+  },
+  "893": {
+    "English": "prepare",
+    "Arabic": "ﺮﻀﺤﻳ"
+  },
+  "894": {
+    "English": "salt",
+    "Arabic": "ﺢﻠﻣ"
+  },
+  "895": {
+    "English": "nose",
+    "Arabic": "ﻒﻧﺃ"
+  },
+  "896": {
+    "English": "plural",
+    "Arabic": "ﻊﻤﺟ"
+  },
+  "897": {
+    "English": "anger",
+    "Arabic": "ﺐﻀﻐﻟﺍ"
+  },
+  "898": {
+    "English": "claim",
+    "Arabic": "ﺔﺒﻟﺎﻄﻣ"
+  },
+  "899": {
+    "English": "continent",
+    "Arabic": "ﺓﺭﺎﻗ"
+  },
+  "900": {
+    "English": "oxygen",
+    "Arabic": "ﻦﻴﺠﺴﻛﻷﺍ"
+  },
+  "901": {
+    "English": "sugar",
+    "Arabic": "ﺮﻜﺳ"
+  },
+  "902": {
+    "English": "death",
+    "Arabic": "ﺕﻮﻣ"
+  },
+  "903": {
+    "English": "pretty",
+    "Arabic": "ﻞﻴﻤﺟ"
+  },
+  "904": {
+    "English": "skill",
+    "Arabic": "ﺓﺭﺎﻬﻣ"
+  },
+  "905": {
+    "English": "women",
+    "Arabic": "ﻒﻴﺤﻧ"
+  },
+  "906": {
+    "English": "season",
+    "Arabic": "ﻢﺳﻮﻣ"
+  },
+  "907": {
+    "English": "solution",
+    "Arabic": "ﻞﺣ"
+  },
+  "908": {
+    "English": "magnet",
+    "Arabic": "ﺲﻴﻃﺎﻨﻐﻣ"
+  },
+  "909": {
+    "English": "silver",
+    "Arabic": "ﺔﻀﻓ"
+  },
+  "910": {
+    "English": "thank",
+    "Arabic": "ﺮﻜﺷ"
+  },
+  "911": {
+    "English": "branch",
+    "Arabic": "ﻉﺮﻓ"
+  },
+  "912": {
+    "English": "match",
+    "Arabic": "ﺓﺍﺭﺎﺒﻣ"
+  },
+  "913": {
+    "English": "suffix",
+    "Arabic": "ﺔﻘﺣﻻ"
+  },
+  "914": {
+    "English": "especially",
+    "Arabic": "ﺎﺻﻮﺼﺧ"
+  },
+  "915": {
+    "English": "fig",
+    "Arabic": "ﻦﻴﺗ"
+  },
+  "916": {
+    "English": "afraid",
+    "Arabic": "ﻒﺋﺎﺧ"
+  },
+  "917": {
+    "English": "huge",
+    "Arabic": "ﻢﺨﺿ"
+  },
+  "918": {
+    "English": "sister",
+    "Arabic": "ﺖﺧﺃ"
+  },
+  "919": {
+    "English": "steel",
+    "Arabic": "ﺫﻻﻮﻓ"
+  },
+  "920": {
+    "English": "discuss",
+    "Arabic": "ﺶﻗﺎﻨﻳ"
+  },
+  "921": {
+    "English": "forward",
+    "Arabic": "ﻡﺎﻣﻷﺍ ﻰﻟﺇ"
+  },
+  "922": {
+    "English": "similar",
+    "Arabic": "ﻪﺑﺎﺸﻣ"
+  },
+  "923": {
+    "English": "guide",
+    "Arabic": "ﺪﺷﺮﻣ"
+  },
+  "924": {
+    "English": "experience",
+    "Arabic": "ﺓﺮﺒﺧ"
+  },
+  "925": {
+    "English": "score",
+    "Arabic": "ﺔﺠﻴﺘﻧ"
+  },
+  "926": {
+    "English": "apple",
+    "Arabic": "ﺔﺣﺎﻔﺗ"
+  },
+  "927": {
+    "English": "bought",
+    "Arabic": "ﻯﺮﺘﺸﻣ"
+  },
+  "928": {
+    "English": "led",
+    "Arabic": "ﺩﺎﻗ"
+  },
+  "929": {
+    "English": "pitch",
+    "Arabic": "ﻑﺬﻘﻳ"
+  },
+  "930": {
+    "English": "coat",
+    "Arabic": "ﻒﻄﻌﻣ"
+  },
+  "931": {
+    "English": "mass",
+    "Arabic": "ﺔﻠﺘﻛ"
+  },
+  "932": {
+    "English": "card",
+    "Arabic": "ﺔﻗﺎﻄﺑ"
+  },
+  "933": {
+    "English": "band",
+    "Arabic": "ﺔﻗﺮﻓ"
+  },
+  "934": {
+    "English": "rope",
+    "Arabic": "ﻞﺒﺣ"
+  },
+  "935": {
+    "English": "slip",
+    "Arabic": "ﻖﻟﺰﻨﻳ"
+  },
+  "936": {
+    "English": "win",
+    "Arabic": "ﺯﻮﻔﻳ"
+  },
+  "937": {
+    "English": "dream",
+    "Arabic": "ﻢﻠﺣ"
+  },
+  "938": {
+    "English": "evening",
+    "Arabic": "ﺀﺎﺴﻣ"
+  },
+  "939": {
+    "English": "condition",
+    "Arabic": "ﺔﻟﺎﺣ"
+  },
+  "940": {
+    "English": "feed",
+    "Arabic": "ﻢﻌﻄﻳ"
+  },
+  "941": {
+    "English": "tool",
+    "Arabic": "ﺓﺍﺩﺃ"
+  },
+  "942": {
+    "English": "]total",
+    "Arabic": "ﻉﻮﻤﺠﻤﻟﺍ["
+  },
+  "943": {
+    "English": "basic",
+    "Arabic": "ﻲﺳﺎﺳﺃ"
+  },
+  "944": {
+    "English": "smell",
+    "Arabic": "ﻢﺸﻳ"
+  },
+  "945": {
+    "English": "valley",
+    "Arabic": "ﻱﺩﺍﻮﻟﺍ"
+  },
+  "946": {
+    "English": "nor",
+    "Arabic": "ﻻﻭ"
+  },
+  "947": {
+    "English": "double",
+    "Arabic": "ﺝﻭﺩﺰﻣ"
+  },
+  "948": {
+    "English": "seat",
+    "Arabic": "ﺪﻌﻘﻣ"
+  },
+  "949": {
+    "English": "arrive",
+    "Arabic": "ﻞﺼﻳ"
+  },
+  "950": {
+    "English": "master",
+    "Arabic": "ﻦﻘﺘﻳ"
+  },
+  "951": {
+    "English": "track",
+    "Arabic": "ﺭﺎﺴﻣ"
+  },
+  "952": {
+    "English": "parent",
+    "Arabic": "ﻦﻳﻮﺑﻷﺍ"
+  },
+  "953": {
+    "English": "shore",
+    "Arabic": "ﺊﻃﺎﺷ"
+  },
+  "954": {
+    "English": "division",
+    "Arabic": "ﻢﺴﻗ"
+  },
+  "955": {
+    "English": "sheet",
+    "Arabic": "ﺔﻣﺰﻠﻣ"
+  },
+  "956": {
+    "English": "substance",
+    "Arabic": "ﺓﺩﺎﻣ"
+  },
+  "957": {
+    "English": "favor",
+    "Arabic": "ﺓﺎﺑﺎﺤﻣ"
+  },
+  "958": {
+    "English": "connect",
+    "Arabic": "ﻞﺼﺘﻳ"
+  },
+  "959": {
+    "English": "post",
+    "Arabic": "ﺪﻳﺮﺑ"
+  },
+  "960": {
+    "English": "spend",
+    "Arabic": "ﻖﻔﻨﻳ"
+  },
+  "961": {
+    "English": "chord",
+    "Arabic": "ﺮﺗﻭ"
+  },
+  "962": {
+    "English": "fat",
+    "Arabic": "ﻦﻴﻤﺳ"
+  },
+  "963": {
+    "English": "glad",
+    "Arabic": "ﺭﻭﺮﺴﻣ"
+  },
+  "964": {
+    "English": "original",
+    "Arabic": "ﻲﻋﺍﺪﺑﺇ"
+  },
+  "965": {
+    "English": "share",
+    "Arabic": "ﻙﺭﺎﺸﻳ"
+  },
+  "966": {
+    "English": "station",
+    "Arabic": "ﺔﻄﺤﻣ"
+  },
+  "967": {
+    "English": "dad",
+    "Arabic": "ﺏﺃ"
+  },
+  "968": {
+    "English": "bread",
+    "Arabic": "ﺰﺒﺧ"
+  },
+  "969": {
+    "English": "charge",
+    "Arabic": "ﺔﻔﻠﻜﺗ"
+  },
+  "970": {
+    "English": "proper",
+    "Arabic": "ﻢﻴﻠﺳ"
+  },
+  "971": {
+    "English": "bar",
+    "Arabic": "ﺰﺟﺎﺣ"
+  },
+  "972": {
+    "English": "offer",
+    "Arabic": "ﺽﺮﻌﻳ"
+  },
+  "973": {
+    "English": "segment",
+    "Arabic": "ﺔﺤﻳﺮﺷ"
+  },
+  "974": {
+    "English": "slave",
+    "Arabic": "ﺪﺒﻋ"
+  },
+  "975": {
+    "English": "duck",
+    "Arabic": "ﺔﻄﺑ"
+  },
+  "976": {
+    "English": "instant",
+    "Arabic": "ﻱﺭﻮﻓ"
+  },
+  "977": {
+    "English": "market",
+    "Arabic": "ﻕﻮﺳ"
+  },
+  "978": {
+    "English": "degree",
+    "Arabic": "ﺔﺟﺭﺩ"
+  },
+  "979": {
+    "English": "populate",
+    "Arabic": "ﻦﻜﺴﻳ"
+  },
+  "980": {
+    "English": "chick",
+    "Arabic": "ﺔﻠﻴﻤﺟ ﺓﺎﺘﻓ"
+  },
+  "981": {
+    "English": "dear",
+    "Arabic": "ﻱﺰﻳﺰﻋ"
+  },
+  "982": {
+    "English": "enemy",
+    "Arabic": "ﻭﺪﻌﻟﺍ"
+  },
+  "983": {
+    "English": "reply",
+    "Arabic": "ﺩﺭ"
+  },
+  "984": {
+    "English": "drink",
+    "Arabic": "ﺏﺮﺸﻳ"
+  },
+  "985": {
+    "English": "occur",
+    "Arabic": "ﺙﺪﺤﻳ"
+  },
+  "986": {
+    "English": "support",
+    "Arabic": "ﻢﻋﺪﻳ"
+  },
+  "987": {
+    "English": "speech",
+    "Arabic": "ﺏﺎﻄﺧ"
+  },
+  "988": {
+    "English": "nature",
+    "Arabic": "ﺔﻌﻴﺒﻃ"
+  },
+  "989": {
+    "English": "range",
+    "Arabic": "ﺡﻭﺍﺮﺘﻳ"
+  },
+  "990": {
+    "English": "steam",
+    "Arabic": "ﺭﺎﺨﺑ"
+  },
+  "991": {
+    "English": "motion",
+    "Arabic": "ﺔﻛﺮﺣ"
+  },
+  "992": {
+    "English": "path",
+    "Arabic": "ﻖﻳﺮﻃ"
+  },
+  "993": {
+    "English": "liquid",
+    "Arabic": "ﻞﺋﺎﺳ"
+  },
+  "994": {
+    "English": "log",
+    "Arabic": "ﻞﺠﺳ"
+  },
+  "995": {
+    "English": "meant",
+    "Arabic": "ﻰﻨﻋ"
+  },
+  "996": {
+    "English": "quotient",
+    "Arabic": "ﺔﻤﺴﻘﻟﺍ ﻞﺻﺎﺣ"
+  },
+  "997": {
+    "English": "teeth",
+    "Arabic": "ﻥﺎﻨﺳﺃ"
+  },
+  "998": {
+    "English": "shell",
+    "Arabic": "ﺔﻓﺪﺻ"
+  },
+  "999": {
+    "English": "neck",
+    "Arabic": "ﺔﺒﻗﺭ"
+  }
+}
